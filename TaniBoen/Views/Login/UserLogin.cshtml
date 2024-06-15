@@ -1,0 +1,94 @@
+﻿@model             LoginUserViewModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="~/css/UserLogin.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="blockNavbar">
+        <header>
+            <div class="navbar">
+                <div class="top">
+                    <!--Top elements as soon as the navbar becomes tablet mode-->
+                    <a class="logo">WearHouse</a>
+                    <div class="hamburger">
+                        <img src="/src/burgericon.png" alt="Tes">
+                    </div>
+                </div>
+                <div class="space">
+                    <!--For space between left & right navbar-->
+                    <ul class="leftnavbar">
+                        <li><a asp-area="" asp-controller="" asp-action="">Category</a></li>
+                        <li><a asp-area="" asp-controller="" asp-action="">About Us</a></li>
+                    </ul>
+
+                    <div class="rightnavbar">
+                        <li><a asp-area="" asp-controller="Login" asp-action="UserLogin">Login</a></li>
+                        <li><a asp-area="" asp-controller="Register" asp-action="UserRegister">Register</a></li>
+                    </div>
+                </div>
+            </div>
+        </header>
+    </div>
+    <main>
+        <div class="containerForm">
+            <form asp-controller="Login" asp-action="UserLogin" method="post" id="form-login" autocomplete="off">
+                <div class="title">
+                    <h3>Login</h3>
+                </div>
+                <table>
+                    <tr>
+                        <td class="label">Email Address</td>
+                        <td>
+                            <input type="text" name="email" id="input-email" class="input" asp-for="Email"/>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="label">Password</td>
+                        <td>
+                            <input type="text" name="password" id="input-pass" class="input" asp-for="Password"/>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                        </td>
+                        <td>
+                            <input type="checkbox" name="validatebox" id="validate-box" class="check-box">
+                            Remember Me
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                        </td>
+                        <td>
+                            <button class="btn" type="submit">Login</button>
+                            <a href="#">Forgot Your Password?</a>
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+    </main>
+    <footer>
+        <div class="footer-content">
+            <ul class="socials">
+                <li><a href="https://twitter.com/" target="blank"><img src="/src/twittericon.png" alt=""></a></li>
+                <li><a href="https://www.facebook.com/" target="_blank"><img src="/src/facebookicon.png" alt=""></a></li>
+                <li><a href="https://www.instagram.com/" target="_blank"><img src="/src/instaicon.png" alt=""></a></li>
+            </ul>
+        </div>
+        <div class="footer-bottom">
+            <p>Copyright &copy;2021 Bryan Anderson. All Rights Reserved</p>
+        </div>
+    </footer>
+</body>
+<script src="~/js/UserLogin.js"></script>
+</html>

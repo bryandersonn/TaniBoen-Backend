@@ -1,0 +1,120 @@
+﻿@model TaniBoen.Models.AddCategoryViewModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Category</title>
+    <link rel="stylesheet" href="~/css/AddCategory.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="blockNavbar">
+        <header>
+            <div class="navbar">
+                <div class="top">
+                    <a href="#" class="logo">WearHouse</a>
+                    <div class="hamburger">
+                        <img src="/src/burgericon.png" alt="Tes">
+                    </div>
+                </div>
+                <div class="space">
+                    <ul class="leftnavbar">
+                        <li><a asp-area="" asp-controller="Categories" asp-action="Index">Category</a></li>
+                        <li><a asp-area="" asp-controller="AboutUs" asp-action="AboutWearHouse">About Us</a></li>
+                    </ul>
+
+                    <div class="rightnavbar">
+                        <div class="admin-dropdown">
+                            <div class="admin-content">
+                                <h5 class="admin">Admin</h5>
+                                <img src="/src/arrowdown.png" alt="^" class="arrow">
+                            </div>
+                            <ul class="dropdown">
+                                <li><a asp-area="" asp-controller="Login" asp-action="UserLogin" id="logout">Logout</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+    </div>
+    <main>
+        <div class="categoryContainer">
+            <div class="title">
+                <h3>Product Categories</h3>
+            </div>
+            <button class="addCategory">Add Category</button>
+
+            <div class="addpopup">
+                <div class="popupHeader">
+                    <div class="headertitle">Add Category</div>
+                    <button class="close"><a asp-controller="Categories" asp-action="Index">&times;</a></button>
+                </div>
+                <form action="AddCategory" method="post" id="add-button" autocomplete="off">
+                    <div class="popupBody">
+                        <div class="bodytitle">Category</div>
+                        <input type="text" asp-for="CategoryName">
+                    </div>
+                    <div class="popupFooter">
+                        <button class="addButton">Submit</button>
+                    </div>
+                </form>
+            </div>
+
+            <div class="overlay"></div>
+
+            <div class="categoryBox">
+                <table>
+                    <tr>
+                        <th>No.</td>
+                        <th>Category</td>
+                        <th>Action</td>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>Shoes</td>
+                        <td>
+                            <button class="editCategory">Edit</button>
+                            <button class="deleteCategory">Delete</button>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>Hats</td>
+                        <td>
+                            <button class="editCategory">Edit</button>
+                            <button class="deleteCategory">Delete</button>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td>Clothes</td>
+                        <td>
+                            <button class="editCategory">Edit</button>
+                            <button class="deleteCategory">Delete</button>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <div class="footer-content">
+            <ul class="socials">
+                <li><a href="https://twitter.com/" target="blank"><img src="/src/twittericon.png" alt=""></a></li>
+                <li><a href="https://www.facebook.com/" target="_blank"><img src="/src/facebookicon.png" alt=""></a></li>
+                <li><a href="https://www.instagram.com/" target="_blank"><img src="/src/instaicon.png" alt=""></a></li>
+            </ul>
+        </div>
+        <div class="footer-bottom">
+            <p>Copyright &copy;2021 Bryan Anderson. All Rights Reserved</p>
+        </div>
+    </footer>
+</body>
+<script src="~/js/AddCategory.js"></script>
+</html>

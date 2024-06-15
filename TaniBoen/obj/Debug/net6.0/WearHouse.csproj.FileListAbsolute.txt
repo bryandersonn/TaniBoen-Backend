@@ -1,0 +1,348 @@
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\appsettings.Development.json
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\appsettings.json
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\WearHouse.staticwebassets.runtime.json
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\WearHouse.exe
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\WearHouse.deps.json
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\WearHouse.runtimeconfig.json
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\WearHouse.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\WearHouse.pdb
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Azure.Core.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Azure.Identity.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Humanizer.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.CodeDom.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Memory.Data.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Text.Json.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.csproj.AssemblyReference.cache
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.GeneratedMSBuildEditorConfig.editorconfig
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.AssemblyInfoInputs.cache
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.AssemblyInfo.cs
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.csproj.CoreCompileInputs.cache
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.MvcApplicationPartsAssemblyInfo.cache
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.RazorAssemblyInfo.cache
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.RazorAssemblyInfo.cs
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\staticwebassets\msbuild.WearHouse.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\staticwebassets\msbuild.build.WearHouse.props
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WearHouse.props
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WearHouse.props
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\staticwebassets.pack.json
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\staticwebassets.build.json
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\staticwebassets.development.json
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\scopedcss\bundle\WearHouse.styles.css
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\scopedcss\projectbundle\WearHouse.bundle.scp.css
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.csproj.CopyComplete
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\refint\WearHouse.dll
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.pdb
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.genruntimeconfig.cache
+D:\BINUS\ITDivBootcamp\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\ref\WearHouse.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\appsettings.json
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\WearHouse.staticwebassets.runtime.json
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\WearHouse.exe
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\WearHouse.deps.json
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\WearHouse.runtimeconfig.json
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\WearHouse.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\WearHouse.pdb
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Humanizer.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.csproj.AssemblyReference.cache
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.AssemblyInfoInputs.cache
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.AssemblyInfo.cs
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.csproj.CoreCompileInputs.cache
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.RazorAssemblyInfo.cache
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.RazorAssemblyInfo.cs
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\staticwebassets\msbuild.WearHouse.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\staticwebassets\msbuild.build.WearHouse.props
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WearHouse.props
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WearHouse.props
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\scopedcss\bundle\WearHouse.styles.css
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\scopedcss\projectbundle\WearHouse.bundle.scp.css
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.csproj.CopyComplete
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\refint\WearHouse.dll
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.pdb
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.genruntimeconfig.cache
+C:\Users\queen\Desktop\daVinci\Mini Project IT Div\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\ref\WearHouse.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\appsettings.Development.json
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\appsettings.json
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\WearHouse.staticwebassets.runtime.json
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\WearHouse.exe
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\WearHouse.deps.json
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\WearHouse.runtimeconfig.json
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\WearHouse.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\WearHouse.pdb
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Azure.Core.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Azure.Identity.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Humanizer.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.CodeDom.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Memory.Data.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Text.Json.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.csproj.AssemblyReference.cache
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.GeneratedMSBuildEditorConfig.editorconfig
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.AssemblyInfoInputs.cache
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.AssemblyInfo.cs
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.csproj.CoreCompileInputs.cache
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.MvcApplicationPartsAssemblyInfo.cache
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.RazorAssemblyInfo.cache
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.RazorAssemblyInfo.cs
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\staticwebassets\msbuild.WearHouse.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\staticwebassets\msbuild.build.WearHouse.props
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WearHouse.props
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WearHouse.props
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\staticwebassets.pack.json
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\staticwebassets.build.json
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\staticwebassets.development.json
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\scopedcss\bundle\WearHouse.styles.css
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\scopedcss\projectbundle\WearHouse.bundle.scp.css
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.csproj.CopyComplete
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\refint\WearHouse.dll
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.pdb
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.genruntimeconfig.cache
+D:\BINUS\ITDivBootcamp\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\ref\WearHouse.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\appsettings.Development.json
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\appsettings.json
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\WearHouse.staticwebassets.runtime.json
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\WearHouse.exe
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\WearHouse.deps.json
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\WearHouse.runtimeconfig.json
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\WearHouse.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\WearHouse.pdb
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Azure.Core.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Azure.Identity.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Humanizer.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.CodeDom.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Memory.Data.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Text.Json.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.csproj.AssemblyReference.cache
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.GeneratedMSBuildEditorConfig.editorconfig
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.AssemblyInfoInputs.cache
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.AssemblyInfo.cs
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.csproj.CoreCompileInputs.cache
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.MvcApplicationPartsAssemblyInfo.cache
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.RazorAssemblyInfo.cache
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.RazorAssemblyInfo.cs
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\staticwebassets\msbuild.WearHouse.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\staticwebassets\msbuild.build.WearHouse.props
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WearHouse.props
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WearHouse.props
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\staticwebassets.pack.json
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\staticwebassets.build.json
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\staticwebassets.development.json
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\scopedcss\bundle\WearHouse.styles.css
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\scopedcss\projectbundle\WearHouse.bundle.scp.css
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.csproj.CopyComplete
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\refint\WearHouse.dll
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.pdb
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\WearHouse.genruntimeconfig.cache
+D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\obj\Debug\net6.0\ref\WearHouse.dll

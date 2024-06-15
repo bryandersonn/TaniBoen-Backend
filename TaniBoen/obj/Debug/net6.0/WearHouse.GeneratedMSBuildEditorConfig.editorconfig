@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TaniBoen
+build_property.RootNamespace = TaniBoen
+build_property.ProjectDir = D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\BINUS\ITDivBootcamp\Files Mini Project\Mini_Project-Bryan Anderson-2602092895\Mini_Project-FINAL\WearHouse BackEnd\WearHouse\WearHouse
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/BINUS/ITDivBootcamp/Files Mini Project/Mini_Project-Bryan Anderson-2602092895/Mini_Project-FINAL/WearHouse BackEnd/WearHouse/WearHouse/Views/AboutUs/AboutWearHouse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRVc1xBYm91dFdlYXJIb3VzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BINUS/ITDivBootcamp/Files Mini Project/Mini_Project-Bryan Anderson-2602092895/Mini_Project-FINAL/WearHouse BackEnd/WearHouse/WearHouse/Views/Categories/AddCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xBZGRDYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BINUS/ITDivBootcamp/Files Mini Project/Mini_Project-Bryan Anderson-2602092895/Mini_Project-FINAL/WearHouse BackEnd/WearHouse/WearHouse/Views/Categories/DeleteCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGVDYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BINUS/ITDivBootcamp/Files Mini Project/Mini_Project-Bryan Anderson-2602092895/Mini_Project-FINAL/WearHouse BackEnd/WearHouse/WearHouse/Views/Categories/EditCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0Q2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BINUS/ITDivBootcamp/Files Mini Project/Mini_Project-Bryan Anderson-2602092895/Mini_Project-FINAL/WearHouse BackEnd/WearHouse/WearHouse/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BINUS/ITDivBootcamp/Files Mini Project/Mini_Project-Bryan Anderson-2602092895/Mini_Project-FINAL/WearHouse BackEnd/WearHouse/WearHouse/Views/Dashboard/Dash.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXERhc2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BINUS/ITDivBootcamp/Files Mini Project/Mini_Project-Bryan Anderson-2602092895/Mini_Project-FINAL/WearHouse BackEnd/WearHouse/WearHouse/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BINUS/ITDivBootcamp/Files Mini Project/Mini_Project-Bryan Anderson-2602092895/Mini_Project-FINAL/WearHouse BackEnd/WearHouse/WearHouse/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BINUS/ITDivBootcamp/Files Mini Project/Mini_Project-Bryan Anderson-2602092895/Mini_Project-FINAL/WearHouse BackEnd/WearHouse/WearHouse/Views/Login/UserLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cVXNlckxvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BINUS/ITDivBootcamp/Files Mini Project/Mini_Project-Bryan Anderson-2602092895/Mini_Project-FINAL/WearHouse BackEnd/WearHouse/WearHouse/Views/Register/UserRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcVXNlclJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BINUS/ITDivBootcamp/Files Mini Project/Mini_Project-Bryan Anderson-2602092895/Mini_Project-FINAL/WearHouse BackEnd/WearHouse/WearHouse/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BINUS/ITDivBootcamp/Files Mini Project/Mini_Project-Bryan Anderson-2602092895/Mini_Project-FINAL/WearHouse BackEnd/WearHouse/WearHouse/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BINUS/ITDivBootcamp/Files Mini Project/Mini_Project-Bryan Anderson-2602092895/Mini_Project-FINAL/WearHouse BackEnd/WearHouse/WearHouse/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BINUS/ITDivBootcamp/Files Mini Project/Mini_Project-Bryan Anderson-2602092895/Mini_Project-FINAL/WearHouse BackEnd/WearHouse/WearHouse/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BINUS/ITDivBootcamp/Files Mini Project/Mini_Project-Bryan Anderson-2602092895/Mini_Project-FINAL/WearHouse BackEnd/WearHouse/WearHouse/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-9vzu7cij0h
