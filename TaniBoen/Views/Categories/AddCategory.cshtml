@@ -1,4 +1,4 @@
-﻿@model TaniBoen.Models.AddCategoryViewModel
+﻿@model TaniBoen.Models.AddProductViewModel
 
 @{
     Layout = null;
@@ -58,7 +58,7 @@
                 <form action="AddCategory" method="post" id="add-button" autocomplete="off">
                     <div class="popupBody">
                         <div class="bodytitle">Category</div>
-                        <input type="text" asp-for="CategoryName">
+                        @* <input type="text" asp-for="CategoryName"> *@
                     </div>
                     <div class="popupFooter">
                         <button class="addButton">Submit</button>

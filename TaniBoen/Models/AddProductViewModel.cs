@@ -1,9 +1,7 @@
 ﻿namespace TaniBoen.Models
 {
-    public class UpdateCategoryViewModel
+    public class AddProductViewModel
     {
-        public Guid Id { get; set; }
-
         public string ProductName { get; set; }
 
         public int ProductRating { get; set; }

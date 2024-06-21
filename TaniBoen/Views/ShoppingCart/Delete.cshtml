@@ -1,0 +1,80 @@
+﻿@model TaniBoen.Models.UpdateCategoryViewModel
+@{
+    Layout = null;
+}
+
+<link rel="stylesheet" href="~/css/Taniboen_Delete_Product.css" asp-append-version="true" />
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WearHouse_Category</title>
+    <link rel="stylesheet" href="/css/Taniboen_Navbar.css">
+    <link rel="stylesheet" href="/css/Taniboen_Shopping_Cart.css">
+    <link rel="stylesheet" href="/css/Taniboen_Footer.css">
+</head>
+<body>
+
+    <div class="navbar">
+        <div class="left-section">
+            <a href="Taniboen_Home_Page.html">
+                <img src="/assets/logo taniboen remove bg2.png" alt="logo taniboen">
+            </a>
+            TaniBoen
+        </div>
+        <div class="right-section">
+            <ul class="menu">
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Home" asp-action="Index">Home</a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Login" asp-action="UserLogin">Login</a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Register" asp-action="UserRegister">Sign up</a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="ShoppingCart" asp-action="ShoppingCart">
+                        <img src="/assets/shopping-cart-removebg-preview.png" alt="shopping-cart">
+                    </a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Profile" asp-action="Profile">
+                        <img src="/assets/profile.png" alt="profile">
+                    </a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Chat" asp-action="Chat">
+                        <img src="/assets/chat-page.png" alt="chat">
+                    </a>
+                </li>
+            </ul>
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </div>
+    </div>
+
+    <div id="overlay"></div>
+
+    <div class="modalDelete">
+        <div class="del-top">
+            <div id="del-title">Delete Product</div>
+            <button class="close"><a asp-controller="ShoppingCart" asp-action="ShoppingCart">&times;</a></button>
+        </div>
+        <form action="Delete" method="post" id="category-form" autocomplete="off">
+            <div class="del-middle">
+                This action is irreversible! Are you sure you want to delete this Product?
+            </div>
+            <div class="del-bottom">    
+                <button type="submit" asp-action="Delete" asp-controller="ShoppingCart">Delete</button>
+            </div>
+        </form>
+    </div>
+
+</body>
+</html>

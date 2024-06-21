@@ -26,7 +26,7 @@ namespace TaniBoen.Controllers
         [HttpPost]
         public async Task<IActionResult> UserLogin(LoginUserViewModel model)
         {
-            var users = await taniBoenData.Users.ToListAsync();
+            var users = await taniBoenData.Register.ToListAsync();
 
             bool isCredentialsValid = false;
             foreach (var user in users)

@@ -1,6 +1,6 @@
-﻿namespace TaniBoen.Models
+﻿namespace TaniBoen.Models.Domain
 {
-    public class UpdateCategoryViewModel
+    public class ProductData
     {
         public Guid Id { get; set; }
 

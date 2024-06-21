@@ -16,12 +16,12 @@ namespace TaniBoen.Controllers
             this.taniBoenData = taniBoenData;
         }
 
-        [HttpGet]
+/*        [HttpGet]
         public async Task<IActionResult> Index()
         {
             var categories = await taniBoenData.Categories.ToListAsync();
             return View(categories);
-        }
+        }*/
 
         [HttpGet]
         public IActionResult AddCategory()
@@ -29,9 +29,9 @@ namespace TaniBoen.Controllers
             return View();
         }
 
-        [HttpPost]
+        /*[HttpPost]
 
-        public async Task<IActionResult> AddCategory(AddCategoryViewModel addCategoryRequest)
+        public async Task<IActionResult> AddCategory(AddProductViewModel addCategoryRequest)
         {
             var category = new Category()
             {
@@ -106,7 +106,7 @@ namespace TaniBoen.Controllers
             }
 
             return RedirectToAction("Index");
-        }
+        }*/
 
     }
 }

@@ -21,9 +21,9 @@ namespace TaniBoen.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> UserRegister(AddUserViewModel AddUserRequest)
+        public async Task<IActionResult> UserRegister(AddRegisterViewModel AddUserRequest)
         {
-            var user = new User()
+            var user = new RegisData()
             {
                 Id = Guid.NewGuid(),
                 Name = AddUserRequest.Name,
@@ -31,7 +31,7 @@ namespace TaniBoen.Controllers
                 Password = AddUserRequest.Password
             };
 
-            await taniBoenData.Users.AddAsync(user);
+            await taniBoenData.Register.AddAsync(user);
             await taniBoenData.SaveChangesAsync();
             return RedirectToAction("UserRegister");
         }

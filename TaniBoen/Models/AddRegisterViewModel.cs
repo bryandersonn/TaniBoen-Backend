@@ -1,11 +1,15 @@
 ﻿namespace TaniBoen.Models
 {
-    public class AddUserViewModel
+    public class AddRegisterViewModel
     {
+
         public string Name { get; set; }
 
         public string Email { get; set; }
 
         public string Password { get; set; }
+
+        public int PhoneNumber { get; set; }
+
     }
 }

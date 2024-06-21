@@ -1,4 +1,7 @@
-﻿@{
+﻿@model List<TaniBoen.Models.Domain.ProductData>
+
+@{
+    var i = 1;
     Layout = null;
 }
 
@@ -65,106 +68,37 @@
             </div>
             <div class="shopping-cart-content">
                 <table>
-                    <tr>
-                        <th>Nama Produk</th>
-                        <th>Gambar</th>
-                        <th>Nama Toko</th>
-                        <th>Kuantitas</th>
-                        <th>Harga</th>
-                        <th>Aksi</th>
-                    </tr>
-                    <tr>
-                        <td>Brokoli</td>
-                        <td><img src="/assets/brocoli.jpg" alt="brocolli"></td>
-                        <td>Mun & Co.</td>
-                        <td>
-                            <div class="quantity-counter">
-                                <div class="plusminus">
-                                    <button>-</button>
-                                </div>
-                                <input type="text" placeholder="0" value="0">
-                                <div class="plusminus">
-                                    <button>+</button>
-                                </div>
-                            </div>
-                        </td>
-                        <td>$66</td>
-                        <td>
-                            <div class="action-button">
-                                <button>Edit</button>
-                                <button>Delete</button>
-                            </div>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>Brokoli</td>
-                        <td><img src="/assets/brocoli.jpg" alt="brocolli"></td>
-                        <td>Mun & Co.</td>
-                        <td>
-                            <div class="quantity-counter">
-                                <div class="plusminus">
-                                    <button>-</button>
-                                </div>
-                                <input type="text" placeholder="0" value="0">
-                                <div class="plusminus">
-                                    <button>+</button>
-                                </div>
-                            </div>
-                        </td>
-                        <td>$66</td>
-                        <td>
-                            <div class="action-button">
-                                <button>Edit</button>
-                                <button>Delete</button>
-                            </div>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>Brokoli</td>
-                        <td><img src="/assets/brocoli.jpg" alt="brocolli"></td>
-                        <td>Mun & Co.</td>
-                        <td>
-                            <div class="quantity-counter">
-                                <div class="plusminus">
-                                    <button>-</button>
-                                </div>
-                                <input type="text" placeholder="0" value="0">
-                                <div class="plusminus">
-                                    <button>+</button>
-                                </div>
-                            </div>
-                        </td>
-                        <td>$66</td>
-                        <td>
-                            <div class="action-button">
-                                <button>Edit</button>
-                                <button>Delete</button>
-                            </div>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>Brokoli</td>
-                        <td><img src="/assets/brocoli.jpg" alt="brocolli"></td>
-                        <td>Mun & Co.</td>
-                        <td>
-                            <div class="quantity-counter">
-                                <div class="plusminus">
-                                    <button>-</button>
-                                </div>
-                                <input type="text" placeholder="0" value="0">
-                                <div class="plusminus">
-                                    <button>+</button>
-                                </div>
-                            </div>
-                        </td>
-                        <td>$66</td>
-                        <td>
-                            <div class="action-button">
-                                <button>Edit</button>
-                                <button>Delete</button>
-                            </div>
-                        </td>
-                    </tr>
+                    <thead>
+                        <tr>
+                            <th>No</th>
+                            <th>Product Name</th>
+                            <th>Product Rating</th>
+                            <th>Products Total Review</th>
+                            <th>Products Sold</th>
+                            <th>Products Price</th>
+                            <th>Products Quantity</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var product in Model)
+                        {
+                            <tr>
+                                <td class="no">@i</td>
+                                <td class="product-name">@product.ProductName</td>
+                                <td class="product-rating">@product.ProductRating</td>
+                                <td class="product-total-review">@product.ProductTotalReview</td>
+                                <td class="product-sold">@product.ProductSold</td>
+                                <td class="product-price">@product.ProductPrice</td>
+                                <td class="product-quantity">@product.ProductQuantity</td>
+                                <td class="action">
+                                    <button class="openEdit"> <a href="Category/Edit/@product.Id">Edit</a></button>
+                                    <button class="openDelete"> <a href="Delete/@product.Id">Delete</a></button>
+                                </td>
+                            </tr>
+                            i++;
+                        }
+                    </tbody>
                 </table>
             </div>
             <div class="checkout">

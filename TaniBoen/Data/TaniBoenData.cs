@@ -8,9 +8,10 @@ namespace TaniBoen.Data
         public TaniBoenData(DbContextOptions options) : base(options)
         {
         }
+        public DbSet<LoginData> Login { get; set; }
 
-        public DbSet<Category> Categories { get; set; }
+        public DbSet<RegisData> Register { get; set; }
 
-        public DbSet<User> Users { get; set; }
+        public DbSet<ProductData> Product { get; set; }
     }
 }

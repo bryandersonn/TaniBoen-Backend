@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XJvzGB6iTLIOPqOMrnHFEQu6JjGTq8lAlAsFfjOSRas=",
+  "Hash": "rRzT2b7DYK0JOPIPzFWxOAWLIT9XcQqqG6GN4y6E0JQ=",
   "Source": "TaniBoen",
   "BasePath": "_content/TaniBoen",
   "Mode": "Default",
@@ -965,6 +965,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Taniboen_Chat_Page.css"
+    },
+    {
+      "Identity": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\css\\Taniboen_Delete_Product.css",
+      "SourceId": "TaniBoen",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\",
+      "BasePath": "_content/TaniBoen",
+      "RelativePath": "css/Taniboen_Delete_Product.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Taniboen_Delete_Product.css"
     },
     {
       "Identity": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\css\\Taniboen_Footer.css",

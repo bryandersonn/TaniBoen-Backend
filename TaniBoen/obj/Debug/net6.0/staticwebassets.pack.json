@@ -213,6 +213,10 @@
       "PackagePath": "staticwebassets\\css\\Taniboen_Chat_Page.css"
     },
     {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\css\\Taniboen_Delete_Product.css",
+      "PackagePath": "staticwebassets\\css\\Taniboen_Delete_Product.css"
+    },
+    {
       "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\css\\Taniboen_Footer.css",
       "PackagePath": "staticwebassets\\css\\Taniboen_Footer.css"
     },
