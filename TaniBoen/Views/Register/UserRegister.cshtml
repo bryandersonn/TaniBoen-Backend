@@ -1,4 +1,4 @@
-﻿@model             AddUserViewModel
+﻿@model AddUserViewModel
 @{
     Layout = null;
 }
@@ -8,96 +8,146 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Register</title>
-    <link rel="stylesheet" href="~/css/UserRegister.css" asp-append-version="true" />
+    <link rel="icon" type="image/png" href="/assets/logo taniboen remove bg2.png">
+    <link rel="stylesheet" href="/css/Taniboen_Navbar.css">
+    <link rel="stylesheet" href="/css/Taniboen_SignUp_Page.css">
+    <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Gabarito:wght@600&family=Katibeh&family=Libre+Franklin:wght@700&family=Nanum+Myeongjo&family=Oswald:wght@300&family=Poppins:wght@100&family=Roboto+Slab:wght@500&family=Roboto:wght@500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/Taniboen_Footer.css">
+    <title>Taniboen</title>
 </head>
 <body>
-    <div class="blockNavbar">
-        <header>
-            <div class="navbar">
-                <div class="top">
-                    <a href="#" class="logo">WearHouse</a>
-                    <div class="hamburger">
-                        <img src="/src/burgericon.png" alt="Tes">
-                    </div>
-                </div>
-                <div class="space">
-                    <!--For space between left & right navbar-->
-                    <ul class="leftnavbar">
-                        <li><a asp-area="" asp-controller="" asp-action="">Category</a></li>
-                        <li><a asp-area="" asp-controller="" asp-action="">About Us</a></li>
-                    </ul>
 
-                    <div class="rightnavbar">
-                        <li><a asp-area="" asp-controller="Login" asp-action="UserLogin">Login</a></li>
-                        <li><a asp-area="" asp-controller="Register" asp-action="UserRegister">Register</a></li>
-                    </div>
-                </div>
+    <div class="navbar">
+        <div class="left-section">
+            <a href="Taniboen_Home_Page.html">
+                <img src="/assets/logo taniboen remove bg2.png" alt="logo taniboen">
+            </a>
+            Taniboen
+        </div>
+        <div class="right-section">
+            <ul class="menu">
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Home" asp-action="Index">Home</a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Login" asp-action="UserLogin">Login</a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Register" asp-action="UserRegister">Sign up</a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="ShoppingCart" asp-action="ShoppingCart">
+                        <img src="/assets/shopping-cart-removebg-preview.png" alt="shopping-cart">
+                    </a>
+                </li>
+            </ul>
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
             </div>
-        </header>
+        </div>
     </div>
-    <main>
-        <div class="containerForm">
-            <form action="UserRegister" method="post" id="form-regis" autocomplete="off">
-                <div class="title">
-                    <h3>Register</h3>
+
+    <div class="main">
+        <section>
+            <div class="signup-box">
+                <div class="signup-title">
+                    <img src="/assets/logo taniboen remove bg2.png">
+                    Create Account
                 </div>
                 <table>
+                    <form action="Register" method="post" id="regis-form" autocomplete="off">
                     <tr>
-                        <td class="label">Name</td>
+                        <td><label for="name">Name</label></td>
                         <td>
-                            <input type="text" name="name" id="input-name" class="input" asp-for="Name" />
+                            <div class="input-account" id="input-name">
+                                <input id="name-input" type="text" required placeholder="Input Your Name Here">
+                            </div>
                         </td>
                     </tr>
                     <tr>
-                        <td class="label">Email Address</td>
+                        <td><label for="phone-number">Phone Number</label></td>
                         <td>
-                            <input type="text" name="email" id="input-email" class="input" asp-for="Email" />
+                            <div class="input-account" id="input-phone-number">
+                                <input id="phone-number-input" type="text" required placeholder="0865 2234 7840">
+                            </div>
                         </td>
                     </tr>
                     <tr>
-                        <td class="label">Password</td>
+                        <td><label for="email">Email Address</label></td>
                         <td>
-                            <input type="password" name="password" id="input-pass" class="input" asp-for="Password" />
+                            <div class="input-account" id="input-email">
+                                <input id="email-input" type="text" required placeholder="asd@asd.com">
+                            </div>
                         </td>
                     </tr>
                     <tr>
-                        <td class="label">Confirm Password</td>
+                        <td><label for="password" id="input-password">Password</label></td>
                         <td>
-                            <input type="password" name="confpassword" id="input-confpass" class="input" />
+                            <div class="input-account">
+                                <input id="password-input" type="password" required placeholder="Input Your Password">
+                            </div>
                         </td>
                     </tr>
                     <tr>
+                        <td><label for="confirm-password" id="input-confirm-password">Confirm Password</label></td>
                         <td>
-                        </td>
-                        <td>
-                            <input type="checkbox" name="validatebox" id="validate-box" class="check-box">
-                            By clicking register, I agree to the terms and conditions.
+                            <div class="input-account">
+                                <input id="confirm-input" type="password" required placeholder="Confirm Your Password">
+                            </div>
                         </td>
                     </tr>
                     <tr>
+                        <td></td>
                         <td>
-                        </td>
-                        <td>
-                            <button type="submit" class="btn">Register</button>
+                            <div id="input-checkbox"><input type="checkbox" id="checkbox-input"> <label for="remember">By clicking register, I agree to the terms and conditions</label></div>
                         </td>
                     </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <div class="register">
+                                <a href="Taniboen_Login_Page.html">
+                                    <input type="submit" value="Register">
+                                </a>
+                            </div>
+                        </td>
+                    </tr>
+                    </form>
                 </table>
-            </form>
+            </div>
+        </section>
+    </div>
+
+    <div class="footer">
+        <div class="footer-upper">
+            <div class="footer-upper-left">
+                <div class="footer-upper-left-title">
+                    About Taniboen
+                </div>
+                <div class="footer-upper-left-content">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit perspiciatis reiciendis tempore, eum corporis enim dolores modi doloremque quo asperiores architecto, alias incidunt saepe iste quidem, quisquam eaque porro fuga!
+                </div>
+            </div>
+            <div class="footer-upper-right">
+                <div class="footer-upper-right-title">
+                    Contacts
+                </div>
+                <div class="footer-upper-right-content">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime tempore nostrum ex sapiente molestias qui voluptate nemo expedita unde inventore, aspernatur quaerat! Quam, libero nobis corrupti sequi eligendi vitae numquam.
+                </div>
+            </div>
         </div>
-    </main>
-    <footer>
-        <div class="footer-content">
-            <ul class="socials">
-                <li><a href="https://twitter.com/" target="blank"><img src="/src/twittericon.png" alt=""></a></li>
-                <li><a href="https://www.facebook.com/" target="_blank"><img src="/src/facebookicon.png" alt=""></a></li>
-                <li><a href="https://www.instagram.com/" target="_blank"><img src="/src/instaicon.png" alt=""></a></li>
-            </ul>
+        <div class="footer-lower">
+            Copyright &copy; 2024 [Taniboen] All Rights Reserved
         </div>
-        <div class="footer-bottom">
-            <p>Copyright &copy;2021 Bryan Anderson. All Rights Reserved</p>
-        </div>
-    </footer>
+    </div>
+
+    <script src="/js/Taniboen_Navbar.js"></script>
+
 </body>
-<script src="~/js/UserRegister.js"></script>
 </html>

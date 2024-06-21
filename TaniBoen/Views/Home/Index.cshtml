@@ -1,8 +1,456 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    Layout = null;
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="/assets/logo taniboen remove bg2.png">
+    <link rel="stylesheet" href="/css/Taniboen_Navbar.css">
+    <link rel="stylesheet" href="/css/Taniboen_Home_Page.css">
+    <link rel="stylesheet" href="/css/Taniboen_Footer.css">
+    <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
+    <title>TaniBoen</title>
+</head>
+<body>
+
+    <div class="navbar">
+        <div class="left-section">
+            <a href="Taniboen_Home_Page.html">
+                <img src="/assets/logo taniboen remove bg2.png" alt="logo taniboen">
+            </a>
+            TaniBoen
+        </div>
+        <div class="right-section">
+            <ul class="menu">
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Home" asp-action="Index">Home</a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Login" asp-action="UserLogin">Login</a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Register" asp-action="UserRegister">Sign up</a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="ShoppingCart" asp-action="ShoppingCart">
+                        <img src="/assets/shopping-cart-removebg-preview.png" alt="shopping-cart">
+                    </a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Profile" asp-action="Profile">
+                        <img src="/assets/profile.png" alt="profile">
+                    </a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Chat" asp-action="Chat">
+                        <img src="/assets/chat-page.png" alt="chat">
+                    </a>
+                </li>
+            </ul>
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="main">
+        <div class="introduction-container">
+            <div class="introduction">
+                <div class="intro-title">
+                    Mari Berbelanja di TaniBoen!
+                </div>
+
+                <div class="intro-greet">
+                    Segarkan Hidup Anda dengan Produk Pertanian Terbaik dari TaniBoen!
+                </div>
+            </div>
+
+        </div>
+        <div class="information-title">
+            Ingin Beli Apa Hari Ini?
+        </div>
+
+        <section class="carouselcontainer">
+            <div class="slider-wrapper">
+                <div class="slider">
+                    <input type="radio" name="slide" id="img1" checked>
+                    <input type="radio" name="slide" id="img2">
+                    <input type="radio" name="slide" id="img3">
+                    <input type="radio" name="slide" id="img4">
+
+                    <img class="m1" src="/assets/slider1.jpg" alt="slider1">
+                    <img class="m2" src="/assets/slider2.jpg" alt="slider2">
+                    <img class="m3" src="/assets/slider3.png" alt="slider3">
+                    <img class="m4" src="/assets/slider4.png" alt="slider4">
+                </div>
+                <div class="dots">
+                    <label for="img1"></label>
+                    <label for="img2"></label>
+                    <label for="img3"></label>
+                    <label for="img4"></label>
+                </div>
+            </div>
+        </section>
+
+        <a asp-controller="MoreProduct" asp-action="MoreProduct" class="searchcontainer">
+            <div class="searchicon"><img src="/assets/searchicon.png" alt=""></div>
+            <div class="searchtext">Search</div>
+        </a>
+
+
+
+        <div class="information-vege">
+            <div class="headline1">Produk Terlaris</div>
+            <div class="information-row">
+                <a asp-controller="Product" asp-action="Product">
+                    <div class="obj">
+                        <img src="/assets/kangkung.jpg" class="vege-img">
+                        <section class="topobj">
+                            <label for="product-name" id="product-name">Sayur Kankung Segar...</label>
+                            <label for="product-price" id="product-price">Rp12.000</label>
+                            <label for="product-location" id="product-location">Kota Bogor</label>
+                        </section>
+                        <div class="bottomobj">
+                            <div class="leftbottom">
+                                <img src="/assets/ratingicon.png" alt="ratingicon">
+                                <label for="product-rating" id="product-rating">4.0</label>
+                            </div>
+                            <div class="rightbottom">
+                                <label for="product-sold" id="product-sold">500 terjual</label>
+                            </div>
+                        </div>
+                    </div>
+
+                </a>
+                <a asp-controller="Product" asp-action="Product">
+                    <div class="obj">
+                        <img src="/assets/kangkung.jpg" class="vege-img">
+                        <section class="topobj">
+                            <label for="product-name" id="product-name">Sayur Kankung Segar...</label>
+                            <label for="product-price" id="product-price">Rp12.000</label>
+                            <label for="product-location" id="product-location">Kota Bogor</label>
+                        </section>
+                        <div class="bottomobj">
+                            <div class="leftbottom">
+                                <img src="/assets/ratingicon.png" alt="ratingicon">
+                                <label for="product-rating" id="product-rating">4.0</label>
+                            </div>
+                            <div class="rightbottom">
+                                <label for="product-sold" id="product-sold">500 terjual</label>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                <a asp-controller="Product" asp-action="Product">
+                    <div class="obj">
+                        <img src="/assets/kangkung.jpg" class="vege-img">
+                        <section class="topobj">
+                            <label for="product-name" id="product-name">Sayur Kankung Segar...</label>
+                            <label for="product-price" id="product-price">Rp12.000</label>
+                            <label for="product-location" id="product-location">Kota Bogor</label>
+                        </section>
+                        <div class="bottomobj">
+                            <div class="leftbottom">
+                                <img src="/assets/ratingicon.png" alt="ratingicon">
+                                <label for="product-rating" id="product-rating">4.0</label>
+                            </div>
+                            <div class="rightbottom">
+                                <label for="product-sold" id="product-sold">500 terjual</label>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                <a asp-controller="Product" asp-action="Product">
+                    <div class="obj">
+                        <img src="/assets/kangkung.jpg" class="vege-img">
+                        <section class="topobj">
+                            <label for="product-name" id="product-name">Sayur Kankung Segar...</label>
+                            <label for="product-price" id="product-price">Rp12.000</label>
+                            <label for="product-location" id="product-location">Kota Bogor</label>
+                        </section>
+                        <div class="bottomobj">
+                            <div class="leftbottom">
+                                <img src="/assets/ratingicon.png" alt="ratingicon">
+                                <label for="product-rating" id="product-rating">4.0</label>
+                            </div>
+                            <div class="rightbottom">
+                                <label for="product-sold" id="product-sold">500 terjual</label>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+
+                <a asp-controller="Product" asp-action="Product">
+                    <div class="obj">
+                        <img src="/assets/kangkung.jpg" class="vege-img">
+                        <section class="topobj">
+                            <label for="product-name" id="product-name">Sayur Kankung Segar...</label>
+                            <label for="product-price" id="product-price">Rp12.000</label>
+                            <label for="product-location" id="product-location">Kota Bogor</label>
+                        </section>
+                        <div class="bottomobj">
+                            <div class="leftbottom">
+                                <img src="/assets/ratingicon.png" alt="ratingicon">
+                                <label for="product-rating" id="product-rating">4.0</label>
+                            </div>
+                            <div class="rightbottom">
+                                <label for="product-sold" id="product-sold">500 terjual</label>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                <a asp-controller="Product" asp-action="Product">
+                    <div class="obj">
+                        <img src="/assets/kangkung.jpg" class="vege-img">
+                        <section class="topobj">
+                            <label for="product-name" id="product-name">Sayur Kankung Segar...</label>
+                            <label for="product-price" id="product-price">Rp12.000</label>
+                            <label for="product-location" id="product-location">Kota Bogor</label>
+                        </section>
+                        <div class="bottomobj">
+                            <div class="leftbottom">
+                                <img src="/assets/ratingicon.png" alt="ratingicon">
+                                <label for="product-rating" id="product-rating">4.0</label>
+                            </div>
+                            <div class="rightbottom">
+                                <label for="product-sold" id="product-sold">500 terjual</label>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                <a asp-controller="Product" asp-action="Product">
+                    <div class="obj">
+                        <img src="/assets/kangkung.jpg" class="vege-img">
+                        <section class="topobj">
+                            <label for="product-name" id="product-name">Sayur Kankung Segar...</label>
+                            <label for="product-price" id="product-price">Rp12.000</label>
+                            <label for="product-location" id="product-location">Kota Bogor</label>
+                        </section>
+                        <div class="bottomobj">
+                            <div class="leftbottom">
+                                <img src="/assets/ratingicon.png" alt="ratingicon">
+                                <label for="product-rating" id="product-rating">4.0</label>
+                            </div>
+                            <div class="rightbottom">
+                                <label for="product-sold" id="product-sold">500 terjual</label>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                <a asp-controller="Product" asp-action="Product">
+                    <div class="obj">
+                        <img src="/assets/kangkung.jpg" class="vege-img">
+                        <section class="topobj">
+                            <label for="product-name" id="product-name">Sayur Kankung Segar...</label>
+                            <label for="product-price" id="product-price">Rp12.000</label>
+                            <label for="product-location" id="product-location">Kota Bogor</label>
+                        </section>
+                        <div class="bottomobj">
+                            <div class="leftbottom">
+                                <img src="/assets/ratingicon.png" alt="ratingicon">
+                                <label for="product-rating" id="product-rating">4.0</label>
+                            </div>
+                            <div class="rightbottom">
+                                <label for="product-sold" id="product-sold">500 terjual</label>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+
+        <div class="information-vege">
+            <div class="headline1">Jasa Terpopuler Saat Ini</div>
+            <div class="information-row">
+                <a asp-controller="Product" asp-action="Product">
+                    <div class="obj">
+                        <img src="/assets/kangkung.jpg" class="vege-img">
+                        <section class="topobj">
+                            <label for="product-name" id="product-name">Sayur Kankung Segar...</label>
+                            <label for="product-price" id="product-price">Rp12.000</label>
+                            <label for="product-location" id="product-location">Kota Bogor</label>
+                        </section>
+                        <div class="bottomobj">
+                            <div class="leftbottom">
+                                <img src="/assets/ratingicon.png" alt="ratingicon">
+                                <label for="product-rating" id="product-rating">4.0</label>
+                            </div>
+                            <div class="rightbottom">
+                                <label for="product-sold" id="product-sold">500 terjual</label>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                <a asp-controller="Product" asp-action="Product">
+                    <div class="obj">
+                        <img src="/assets/kangkung.jpg" class="vege-img">
+                        <section class="topobj">
+                            <label for="product-name" id="product-name">Sayur Kankung Segar...</label>
+                            <label for="product-price" id="product-price">Rp12.000</label>
+                            <label for="product-location" id="product-location">Kota Bogor</label>
+                        </section>
+                        <div class="bottomobj">
+                            <div class="leftbottom">
+                                <img src="/assets/ratingicon.png" alt="ratingicon">
+                                <label for="product-rating" id="product-rating">4.0</label>
+                            </div>
+                            <div class="rightbottom">
+                                <label for="product-sold" id="product-sold">500 terjual</label>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                <a asp-controller="Product" asp-action="Product">
+                    <div class="obj">
+                        <img src="/assets/kangkung.jpg" class="vege-img">
+                        <section class="topobj">
+                            <label for="product-name" id="product-name">Sayur Kankung Segar...</label>
+                            <label for="product-price" id="product-price">Rp12.000</label>
+                            <label for="product-location" id="product-location">Kota Bogor</label>
+                        </section>
+                        <div class="bottomobj">
+                            <div class="leftbottom">
+                                <img src="/assets/ratingicon.png" alt="ratingicon">
+                                <label for="product-rating" id="product-rating">4.0</label>
+                            </div>
+                            <div class="rightbottom">
+                                <label for="product-sold" id="product-sold">500 terjual</label>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                <a asp-controller="Product" asp-action="Product">
+                    <div class="obj">
+                        <img src="/assets/kangkung.jpg" class="vege-img">
+                        <section class="topobj">
+                            <label for="product-name" id="product-name">Sayur Kankung Segar...</label>
+                            <label for="product-price" id="product-price">Rp12.000</label>
+                            <label for="product-location" id="product-location">Kota Bogor</label>
+                        </section>
+                        <div class="bottomobj">
+                            <div class="leftbottom">
+                                <img src="/assets/ratingicon.png" alt="ratingicon">
+                                <label for="product-rating" id="product-rating">4.0</label>
+                            </div>
+                            <div class="rightbottom">
+                                <label for="product-sold" id="product-sold">500 terjual</label>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+
+                <a asp-controller="Product" asp-action="Product">
+                    <div class="obj">
+                        <img src="/assets/kangkung.jpg" class="vege-img">
+                        <section class="topobj">
+                            <label for="product-name" id="product-name">Sayur Kankung Segar...</label>
+                            <label for="product-price" id="product-price">Rp12.000</label>
+                            <label for="product-location" id="product-location">Kota Bogor</label>
+                        </section>
+                        <div class="bottomobj">
+                            <div class="leftbottom">
+                                <img src="/assets/ratingicon.png" alt="ratingicon">
+                                <label for="product-rating" id="product-rating">4.0</label>
+                            </div>
+                            <div class="rightbottom">
+                                <label for="product-sold" id="product-sold">500 terjual</label>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                <a asp-controller="Product" asp-action="Product">
+                    <div class="obj">
+                        <img src="/assets/kangkung.jpg" class="vege-img">
+                        <section class="topobj">
+                            <label for="product-name" id="product-name">Sayur Kankung Segar...</label>
+                            <label for="product-price" id="product-price">Rp12.000</label>
+                            <label for="product-location" id="product-location">Kota Bogor</label>
+                        </section>
+                        <div class="bottomobj">
+                            <div class="leftbottom">
+                                <img src="/assets/ratingicon.png" alt="ratingicon">
+                                <label for="product-rating" id="product-rating">4.0</label>
+                            </div>
+                            <div class="rightbottom">
+                                <label for="product-sold" id="product-sold">500 terjual</label>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                <a asp-controller="Product" asp-action="Product">
+                    <div class="obj">
+                        <img src="/assets/kangkung.jpg" class="vege-img">
+                        <section class="topobj">
+                            <label for="product-name" id="product-name">Sayur Kankung Segar...</label>
+                            <label for="product-price" id="product-price">Rp12.000</label>
+                            <label for="product-location" id="product-location">Kota Bogor</label>
+                        </section>
+                        <div class="bottomobj">
+                            <div class="leftbottom">
+                                <img src="/assets/ratingicon.png" alt="ratingicon">
+                                <label for="product-rating" id="product-rating">4.0</label>
+                            </div>
+                            <div class="rightbottom">
+                                <label for="product-sold" id="product-sold">500 terjual</label>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                <a asp-controller="Product" asp-action="Product">
+                    <div class="obj">
+                        <img src="/assets/kangkung.jpg" class="vege-img">
+                        <section class="topobj">
+                            <label for="product-name" id="product-name">Sayur Kankung Segar...</label>
+                            <label for="product-price" id="product-price">Rp12.000</label>
+                            <label for="product-location" id="product-location">Kota Bogor</label>
+                        </section>
+                        <div class="bottomobj">
+                            <div class="leftbottom">
+                                <img src="/assets/ratingicon.png" alt="ratingicon">
+                                <label for="product-rating" id="product-rating">4.0</label>
+                            </div>
+                            <div class="rightbottom">
+                                <label for="product-sold" id="product-sold">500 terjual</label>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="footer">
+        <div class="footer-upper">
+            <div class="footer-upper-left">
+                <div class="footer-upper-left-title">
+                    About Taniboen
+                </div>
+                <div class="footer-upper-left-content">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit perspiciatis reiciendis tempore, eum corporis enim dolores modi doloremque quo asperiores architecto, alias incidunt saepe iste quidem, quisquam eaque porro fuga!
+                </div>
+            </div>
+            <div class="footer-upper-right">
+                <div class="footer-upper-right-title">
+                    Contacts
+                </div>
+                <div class="footer-upper-right-content">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime tempore nostrum ex sapiente molestias qui voluptate nemo expedita unde inventore, aspernatur quaerat! Quam, libero nobis corrupti sequi eligendi vitae numquam.
+                </div>
+            </div>
+        </div>
+        <div class="footer-lower">
+            Copyright &copy; 2024 [Taniboen] All Rights Reserved
+        </div>
+    </div>
+
+    <script src="/js/Taniboen_Navbar.js"></script>
+
+</body>
+</html>

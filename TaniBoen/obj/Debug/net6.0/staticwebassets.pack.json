@@ -1,335 +1,539 @@
 {
   "Files": [
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TaniBoen.bundle.scp.css",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TaniBoen.bundle.scp.css",
       "PackagePath": "staticwebassets\\TaniBoen.bundle.scp.css"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\css\\AboutWearHouse.css",
-      "PackagePath": "staticwebassets\\css\\AboutWearHouse.css"
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\Taniboen Background.png",
+      "PackagePath": "staticwebassets\\assets\\Taniboen Background.png"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\css\\AddCategory.css",
-      "PackagePath": "staticwebassets\\css\\AddCategory.css"
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\background-introduction.jpg",
+      "PackagePath": "staticwebassets\\assets\\background-introduction.jpg"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\css\\Dash.css",
-      "PackagePath": "staticwebassets\\css\\Dash.css"
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\background-login.jpg",
+      "PackagePath": "staticwebassets\\assets\\background-login.jpg"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\css\\DeleteCategory.css",
-      "PackagePath": "staticwebassets\\css\\DeleteCategory.css"
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\bca.png",
+      "PackagePath": "staticwebassets\\assets\\bca.png"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\css\\EditCategory.css",
-      "PackagePath": "staticwebassets\\css\\EditCategory.css"
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\bri.png",
+      "PackagePath": "staticwebassets\\assets\\bri.png"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\css\\Index.css",
-      "PackagePath": "staticwebassets\\css\\Index.css"
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\brocoli.jpg",
+      "PackagePath": "staticwebassets\\assets\\brocoli.jpg"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\css\\UserLogin.css",
-      "PackagePath": "staticwebassets\\css\\UserLogin.css"
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\cabbage.jpg",
+      "PackagePath": "staticwebassets\\assets\\cabbage.jpg"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\css\\UserRegister.css",
-      "PackagePath": "staticwebassets\\css\\UserRegister.css"
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\carrot.jpg",
+      "PackagePath": "staticwebassets\\assets\\carrot.jpg"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\cauliflower.jpg",
+      "PackagePath": "staticwebassets\\assets\\cauliflower.jpg"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\chat-page.png",
+      "PackagePath": "staticwebassets\\assets\\chat-page.png"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\chatchat.png",
+      "PackagePath": "staticwebassets\\assets\\chatchat.png"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\check.png",
+      "PackagePath": "staticwebassets\\assets\\check.png"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\cod.png",
+      "PackagePath": "staticwebassets\\assets\\cod.png"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\coffeeseed.jpg",
+      "PackagePath": "staticwebassets\\assets\\coffeeseed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\emoticon.png",
+      "PackagePath": "staticwebassets\\assets\\emoticon.png"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\farming-background.jpg",
+      "PackagePath": "staticwebassets\\assets\\farming-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\gopay.png",
+      "PackagePath": "staticwebassets\\assets\\gopay.png"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\kangkung.jpg",
+      "PackagePath": "staticwebassets\\assets\\kangkung.jpg"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\logo taniboen remove bg.png",
+      "PackagePath": "staticwebassets\\assets\\logo taniboen remove bg.png"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\logo taniboen remove bg2.png",
+      "PackagePath": "staticwebassets\\assets\\logo taniboen remove bg2.png"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\logo taniboen.png",
+      "PackagePath": "staticwebassets\\assets\\logo taniboen.png"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\mandiri.png",
+      "PackagePath": "staticwebassets\\assets\\mandiri.png"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\mic.png",
+      "PackagePath": "staticwebassets\\assets\\mic.png"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\mun_and_co-removebg-preview.png",
+      "PackagePath": "staticwebassets\\assets\\mun_and_co-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\notes remove bg.txt",
+      "PackagePath": "staticwebassets\\assets\\notes remove bg.txt"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\palmoil.jpg",
+      "PackagePath": "staticwebassets\\assets\\palmoil.jpg"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\peanuts.jpg",
+      "PackagePath": "staticwebassets\\assets\\peanuts.jpg"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\picture.png",
+      "PackagePath": "staticwebassets\\assets\\picture.png"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\plus-follow.png",
+      "PackagePath": "staticwebassets\\assets\\plus-follow.png"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\profile-background.png",
+      "PackagePath": "staticwebassets\\assets\\profile-background.png"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\profile-img.png",
+      "PackagePath": "staticwebassets\\assets\\profile-img.png"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\profile.png",
+      "PackagePath": "staticwebassets\\assets\\profile.png"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\ratingicon.png",
+      "PackagePath": "staticwebassets\\assets\\ratingicon.png"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\searchicon.png",
+      "PackagePath": "staticwebassets\\assets\\searchicon.png"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\seller-chat.png",
+      "PackagePath": "staticwebassets\\assets\\seller-chat.png"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\seller-delivery.png",
+      "PackagePath": "staticwebassets\\assets\\seller-delivery.png"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\seller-follower.png",
+      "PackagePath": "staticwebassets\\assets\\seller-follower.png"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\seller-logo.png",
+      "PackagePath": "staticwebassets\\assets\\seller-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\seller-rating.png",
+      "PackagePath": "staticwebassets\\assets\\seller-rating.png"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\shopping-cart-removebg-preview.png",
+      "PackagePath": "staticwebassets\\assets\\shopping-cart-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\signup-background.jpg",
+      "PackagePath": "staticwebassets\\assets\\signup-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\slider1.jpg",
+      "PackagePath": "staticwebassets\\assets\\slider1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\slider2.jpg",
+      "PackagePath": "staticwebassets\\assets\\slider2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\slider3.png",
+      "PackagePath": "staticwebassets\\assets\\slider3.png"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\slider4.png",
+      "PackagePath": "staticwebassets\\assets\\slider4.png"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\spay.png",
+      "PackagePath": "staticwebassets\\assets\\spay.png"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\assets\\wheatkernels.jpg",
+      "PackagePath": "staticwebassets\\assets\\wheatkernels.jpg"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\css\\TaniBoen_MoreProducts_Page.css",
+      "PackagePath": "staticwebassets\\css\\TaniBoen_MoreProducts_Page.css"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\css\\TaniBoen_Payment.css",
+      "PackagePath": "staticwebassets\\css\\TaniBoen_Payment.css"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\css\\TaniBoen_Products.css",
+      "PackagePath": "staticwebassets\\css\\TaniBoen_Products.css"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\css\\TaniBoen_Profile.css",
+      "PackagePath": "staticwebassets\\css\\TaniBoen_Profile.css"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\css\\Taniboen_Chat_Page.css",
+      "PackagePath": "staticwebassets\\css\\Taniboen_Chat_Page.css"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\css\\Taniboen_Footer.css",
+      "PackagePath": "staticwebassets\\css\\Taniboen_Footer.css"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\css\\Taniboen_Home_Page.css",
+      "PackagePath": "staticwebassets\\css\\Taniboen_Home_Page.css"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\css\\Taniboen_Login_Page.css",
+      "PackagePath": "staticwebassets\\css\\Taniboen_Login_Page.css"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\css\\Taniboen_Navbar.css",
+      "PackagePath": "staticwebassets\\css\\Taniboen_Navbar.css"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\css\\Taniboen_OrderHistory_Page.css",
+      "PackagePath": "staticwebassets\\css\\Taniboen_OrderHistory_Page.css"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\css\\Taniboen_Profile_Seller.css",
+      "PackagePath": "staticwebassets\\css\\Taniboen_Profile_Seller.css"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\css\\Taniboen_Shopping_Cart.css",
+      "PackagePath": "staticwebassets\\css\\Taniboen_Shopping_Cart.css"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\css\\Taniboen_SignUp_Page.css",
+      "PackagePath": "staticwebassets\\css\\Taniboen_SignUp_Page.css"
+    },
+    {
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\js\\AboutWearHouse.js",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\js\\AboutWearHouse.js",
       "PackagePath": "staticwebassets\\js\\AboutWearHouse.js"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\js\\AddCategory.js",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\js\\AddCategory.js",
       "PackagePath": "staticwebassets\\js\\AddCategory.js"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\js\\Dash.js",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\js\\Dash.js",
       "PackagePath": "staticwebassets\\js\\Dash.js"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\js\\DeleteCategory.js",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\js\\DeleteCategory.js",
       "PackagePath": "staticwebassets\\js\\DeleteCategory.js"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\js\\EditCategory.js",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\js\\EditCategory.js",
       "PackagePath": "staticwebassets\\js\\EditCategory.js"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\js\\Index.js",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\js\\Index.js",
       "PackagePath": "staticwebassets\\js\\Index.js"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\js\\UserLogin.js",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\js\\UserLogin.js",
       "PackagePath": "staticwebassets\\js\\UserLogin.js"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\js\\UserRegister.js",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\js\\UserRegister.js",
       "PackagePath": "staticwebassets\\js\\UserRegister.js"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\src\\arrowdown.png",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\src\\arrowdown.png",
       "PackagePath": "staticwebassets\\src\\arrowdown.png"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\src\\arrowup.png",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\src\\arrowup.png",
       "PackagePath": "staticwebassets\\src\\arrowup.png"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\src\\burgericon.png",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\src\\burgericon.png",
       "PackagePath": "staticwebassets\\src\\burgericon.png"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\src\\facebookicon.png",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\src\\facebookicon.png",
       "PackagePath": "staticwebassets\\src\\facebookicon.png"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\src\\instaicon.png",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\src\\instaicon.png",
       "PackagePath": "staticwebassets\\src\\instaicon.png"
     },
     {
-      "Id": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Project\\TaniBoen\\wwwroot\\src\\twittericon.png",
+      "Id": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\wwwroot\\src\\twittericon.png",
       "PackagePath": "staticwebassets\\src\\twittericon.png"
     },
     {
