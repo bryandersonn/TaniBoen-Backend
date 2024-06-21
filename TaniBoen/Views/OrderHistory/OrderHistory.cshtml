@@ -20,34 +20,31 @@
 
     <div class="navbar">
         <div class="left-section">
-            <a href="Taniboen_Home_Page.html">
-                <img src="/assets/logo taniboen remove bg2.png" alt="logo taniboen">        
+            <a asp-controller="Home" asp-action="Index">
+                <img src="/assets/logo taniboen remove bg2.png" alt="logo taniboen">
             </a>
             TaniBoen
         </div>
         <div class="right-section">
             <ul class="menu">
                 <li class="menu-choice">
-                    <a href="Taniboen_Home_Page.html" class="menu-link">Home</a>
+                    <a class="menu-link" asp-controller="Home" asp-action="Index">Home</a>
                 </li>
                 <li class="menu-choice">
-                    <a href="Taniboen_Login_Page.html" class="menu-link">Login</a>
+                    <a class="menu-link" asp-controller="Login" asp-action="UserLogin">Logout</a>
                 </li>
                 <li class="menu-choice">
-                    <a href="Taniboen_SignUp_Page.html" class="menu-link">Sign up</a>
-                </li>
-                <li class="menu-choice">
-                    <a href="Taniboen_Shopping_Cart.html" class="menu-link">
+                    <a class="menu-link" asp-controller="ShoppingCart" asp-action="ShoppingCart">
                         <img src="/assets/shopping-cart-removebg-preview.png" alt="shopping-cart">
                     </a>
                 </li>
                 <li class="menu-choice">
-                    <a href="Taniboen_Profile.html" class="menu-link">
+                    <a class="menu-link" asp-controller="Profile" asp-action="Profile">
                         <img src="/assets/profile.png" alt="profile">
                     </a>
                 </li>
                 <li class="menu-choice">
-                    <a href="Taniboen_Chat_Page.html" class="menu-link">
+                    <a class="menu-link" asp-controller="Chat" asp-action="Chat">
                         <img src="/assets/chat-page.png" alt="chat">
                     </a>
                 </li>
@@ -76,7 +73,7 @@
                     </div>
                     <div class="timestatus">20 Mei 2024, 14:33</div>
                 </div>
-                <a href=""><button id="detailpesanan">Detail Pesanan</button></a>
+                <a asp-controller="DetailPayment" asp-action="DetailPayment"><button id="detailpesanan">Detail Pesanan</button></a>
             </div>
             <div class="orderitem">
                 <img src="/assets/mun_and_co-removebg-preview.png" alt="mun&cologo" id="logo">
@@ -89,7 +86,7 @@
                     </div>
                     <div class="timestatus">20 Mei 2024, 14:33</div>
                 </div>
-                <a href=""><button id="detailpesanan">Detail Pesanan</button></a>
+                <a asp-controller="DetailPayment" asp-action="DetailPayment"><button id="detailpesanan">Detail Pesanan</button></a>
             </div>
             <div class="orderitem">
                 <img src="/assets/mun_and_co-removebg-preview.png" alt="mun&cologo" id="logo">
@@ -102,7 +99,7 @@
                     </div>
                     <div class="timestatus">20 Mei 2024, 14:33</div>
                 </div>
-                <a href=""><button id="detailpesanan">Detail Pesanan</button></a>
+                <a asp-controller="DetailPayment" asp-action="DetailPayment"><button id="detailpesanan">Detail Pesanan</button></a>
             </div>
         </section>
     </div>

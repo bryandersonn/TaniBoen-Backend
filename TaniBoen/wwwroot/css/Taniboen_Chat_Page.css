@@ -5,7 +5,7 @@
 }
 .main{
     display: flex;
-    height: 92.6vh;
+    height: 100%;
 }
 .left{
     width: 30%;
@@ -28,6 +28,7 @@
     display: flex;
     gap: 10px;
     align-items: center;
+    border-radius: 10px;
 }
 .left .chat-search-bar img{
     width: 20px;
@@ -97,6 +98,8 @@
     display: flex;
     width: 100%;
     justify-content: space-between;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 .right input{
     border: none;
@@ -126,3 +129,4 @@
     opacity: .6;
     transition: .15s;
 }
+

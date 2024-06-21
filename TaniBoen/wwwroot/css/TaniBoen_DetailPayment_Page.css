@@ -1,10 +1,10 @@
-* {
+*{
     margin: 0;
     padding: 0;
     font-family: 'Poppins';
-}
+  }
 
-.main {
+.main{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -15,25 +15,26 @@
     padding-top: 20px;
 }
 
-.title-container {
+.title-container{
     /* background-color: black; */
     /* width: 100%; */
     padding: 10px 30px 0px 10px;
     margin-top: 10px;
 }
 
-.title {
+.title{
     color: #518300;
+    font-style: bold;
     display: flex;
     justify-content: start;
     align-items: center;
     font-size: 35px;
     font-weight: bold;
-}
+  }
 
 
 
-.product-detail-container {
+.product-detail-container{
     width: 50%;
     height: 40%;
     /* border: 2px solid black; */
@@ -44,55 +45,58 @@
     border-radius: 10px;
 }
 
-.product-detail-container table {
+.product-detail-container table{
     padding: 10px;
 }
 
 
 
-.product-detail-container table th, td {
-     padding: 10px;
-     text-align: center;
-     padding-top: 0;
-       padding-bottom: 0;
+.product-detail-container table th,td{
+    padding: 10px;
+    text-align: center;
+    padding-top: 0;
+    padding-bottom: 0;
 }
 
-.seller-img-container {
+
+
+
+.seller-img-container{
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.title-chat-container {
+.title-chat-container{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
 
-.seller-img-container img {
+.seller-img-container img{
     width: 120px;
     height: 120px;
 }
 
-.munco-img {
+.munco-img{
     width: 1%;
     height: 1%;
 }
 
-.detail-title img {
+ .detail-title img{
     width: 70px;
     height: 70px;
     /* background-color: red; */
 }
 
-.deliver-container {
+.deliver-container{
     display: flex;
     justify-content: space-evenly;
     align-self: center;
 }
 
-.detail-title {
+.detail-title{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -102,7 +106,7 @@
     /* background-color: blue; */
 }
 
-.info-container {
+.info-container{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -113,58 +117,59 @@
     /* background-color: red; */
 }
 
-.middle {
+.middle{
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 10px;
 }
 
-.img-wrapper {
+.img-wrapper{
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.img-container {
+.img-container{
     /* background-color: red; */
-
+   
     width: 90%;
+      
 }
 
-    .img-container img {
-        width: 60px;
-        height: 60px;
-        /* background-color: red; */
-    }
+.img-container img{
+    width: 60px;
+    height: 60px;
+    /* background-color: red; */
+}
 
-.seller-images {
+.seller-images{
     display: flex;
     justify-content: start;
     align-items: center;
     /* background-color: red; */
 }
 
-    .seller-images img {
-        width: 100px;
-        height: 100px;
-        margin: 5px;
-    }
+.seller-images img{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+}
 
-#kangkung-img {
+#kangkung-img{
     border-radius: 10px;
     border: 0.5px solid rgba(221, 221, 221, 1);
     width: 196px;
     height: 131px;
 }
 
-.chat-seller-container {
+.chat-seller-container{
     display: flex;
     justify-content: center;
     flex-direction: column;
 }
 
-.chat button {
+.chat button{
     background-color: #518300;
     display: flex;
     justify-content: center;
@@ -177,16 +182,16 @@
     padding: 5px 20px 5px 20px;
 }
 
-    .chat button:hover {
-        opacity: 80%;
-    }
+.chat button:hover{
+    opacity: 80%;
+}
 
-.chat-view {
+.chat-view{
     text-decoration: none;
 }
 
 
-.delivery-container-main {
+.delivery-container-main{
     width: 50%;
     height: 100%;
     margin-bottom: 10px;
@@ -196,7 +201,7 @@
     border-radius: 10px;
 }
 
-.deliver-container-sub {
+.deliver-container-sub{
     padding: 10px;
     display: flex;
     flex-direction: column;
@@ -205,13 +210,13 @@
 }
 
 
-.delivery-title-container {
+.delivery-title-container{
     display: flex;
     align-items: center;
     flex-direction: column;
 }
 
-.delivery-title {
+.delivery-title{
     /* background-color: red; */
     display: flex;
     justify-content: center;
@@ -221,7 +226,7 @@
     width: 70%;
 }
 
-.deliver-route-container {
+.deliver-route-container{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -230,23 +235,23 @@
     margin: 10px;
 }
 
-.wrapper {
+.wrapper{
     display: flex;
     flex-direction: column;
     gap: 5px;
     /* background-color: blue */
 }
 
-.name-phone {
+.name-phone{
     font-weight: bolder;
 }
 
-.city {
+.city{
     color: #3E3E3E;
     font-weight: bolder;
 }
 
-.ongkir {
+.ongkir{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -254,15 +259,15 @@
     gap: 5px;
 }
 
-.ongkir-price {
+.ongkir-price{
     border-radius: 5px;
-    border: none;
-    padding: 5px;
-    background-color: white;
-    border: 0.5px solid rgba(221, 221, 221, 1);
+  border: none;
+  padding: 5px;
+  background-color: white;
+  border: 0.5px solid rgba(221, 221, 221, 1);
 }
 
-.deliver-type {
+.deliver-type{
     display: flex;
     justify-content: start;
     gap: 10px;
@@ -270,7 +275,7 @@
     /* background-color: red; */
 }
 
-.payment-methods {
+.payment-methods{
     display: flex;
     justify-content: center;
     /* align-items: center; */
@@ -278,50 +283,50 @@
     margin-bottom: 10px;
 }
 
-.left-container {
+.left-container{
     width: 150%;
     height: 70%;
-    border-radius: 10px;
-    box-shadow: 0 0.25rem 1.2rem -1rem rgb(63, 61, 61);
+    border-radius: 10px;box-shadow: 0 0.25rem 1.2rem -1rem rgb(63, 61, 61);
     background-color: white;
     border-radius: 10px;
     padding: 10px;
 }
 
-.right-container {
-    width: 140%;
+.right-container{
+    width: 170%;
     height: 90%;
     border-radius: 10px;
     box-shadow: 0 0.25rem 1.2rem -1rem rgb(63, 61, 61);
     background-color: white;
     border-radius: 10px;
     padding: 10px;
+
 }
 
-.right-container button {
+.right-container button{
     border: none;
     padding: 5px;
 }
 
- .right-container button:hover {
-      opacity: 80%;
- }
+.right-container button:hover{
+    opacity: 80%;
+}
 
 
-.payment-title {
+.payment-title{
     color: #518300;
 }
 
-.payment-details {
+.payment-details{
     display: flex;
     justify-content: start;
-    align-items: center;
+    align-items: center; 
     gap: 2px;
     width: 60%;
     /* background-color: red; */
 }
 
-.payment-container {
+.payment-container{
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -329,17 +334,17 @@
     /* background-color: red; */
 }
 
-.payment-details img {
+.payment-details img{
     width: 10%;
     height: 10%;
 }
 
-.total-title {
+.total-title{
     color: #518300;
     margin-top: 10px;
 }
 
-.total-cost-container {
+.total-cost-container{
     width: 100%;
     /* background-color: red; */
     display: flex;
@@ -347,7 +352,7 @@
     /* align-items: center; */
 }
 
-.pay-container {
+.pay-container{
     margin: 5px;
     /* background-color: red; */
     display: flex;
@@ -356,19 +361,19 @@
     /* flex-direction: column; */
 }
 
-.button {
+.button{
     display: flex;
     justify-content: end;
     align-items: center;
     margin: 5px;
 }
 
-.final-cost {
-    color: #518300;
+.final-cost{
+    color: #518300;   
 }
 
 
-.button button {
+.button button{
     color: white;
     background-color: #518300;
     border-radius: 4px;
@@ -379,6 +384,73 @@
     outline: 0px;
 }
 
-a{
-    text-decoration: none;
+
+.button button{
+    color: white;
+    background-color: #518300;
+    border-radius: 4px;
+    text-align: center;
+    width: 20%;
+    height: 20%;
+    cursor: pointer;
+    outline: 0px;
+}
+
+.rate{
+    display: flex;
+    justify-content: center;
+}
+
+.rate-price{
+    justify-content: column;
+    margin-top: 20px;
+    align-items: center;
+}
+
+.star-paybutton{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.checked
+{
+  color: rgba(81, 131, 0, 1);
+}
+
+.unchecked{
+  color: #e2e2e2;
+}
+
+.paybutton button{
+    color: white;
+    background-color: #518300;
+    width: 100px;
+    height: 30px;
+    border-radius: 8px;
+}
+
+.price{
+    color: #518300;
+}
+
+.price-total
+{
+    margin-top: 30px;
+    display: flex;
+    color: #518300;
+    justify-content: end;
+}
+
+.paybutton{
+    margin-top: 10px;
+    display: flex;
+    justify-content: end;
+}
+
+.fa-check
+{
+    color: #518300;
+    margin-left: 5px;
 }

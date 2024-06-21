@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/png" href="/assets/logo taniboen remove bg2.png">
     <link rel="stylesheet" href="/css/Taniboen_Navbar.css">
-    <link rel="stylesheet" href="/css/Taniboen_Home_Page.css">
+    <link rel="stylesheet" href="/css/TaniBoen_HomeGuest_Page.css">
     <link rel="stylesheet" href="/css/Taniboen_Footer.css">
     <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -28,25 +28,10 @@
         <div class="right-section">
             <ul class="menu">
                 <li class="menu-choice">
-                    <a class="menu-link" asp-controller="Home" asp-action="Index">Home</a>
+                    <a class="menu-link" asp-controller="Login" asp-action="UserLogin">Login</a>
                 </li>
                 <li class="menu-choice">
-                    <a class="menu-link" asp-controller="Login" asp-action="UserLogin">Logout</a>
-                </li>
-                <li class="menu-choice">
-                    <a class="menu-link" asp-controller="ShoppingCart" asp-action="ShoppingCart">
-                        <img src="/assets/shopping-cart-removebg-preview.png" alt="shopping-cart">
-                    </a>
-                </li>
-                <li class="menu-choice">
-                    <a class="menu-link" asp-controller="Profile" asp-action="Profile">
-                        <img src="/assets/profile.png" alt="profile">
-                    </a>
-                </li>
-                <li class="menu-choice">
-                    <a class="menu-link" asp-controller="Chat" asp-action="Chat">
-                        <img src="/assets/chat-page.png" alt="chat">
-                    </a>
+                    <a class="menu-link" asp-controller="Register" asp-action="UserRegister">Sign Up</a>
                 </li>
             </ul>
             <div class="hamburger">
@@ -96,7 +81,7 @@
             </div>
         </section>
 
-        <a asp-controller="MoreProduct" asp-action="MoreProduct" class="searchcontainer">
+        <a asp-controller="Login" asp-action="UserLogin" class="searchcontainer">
             <div class="searchicon"><img src="/assets/searchicon.png" alt=""></div>
             <div class="searchtext">Search</div>
         </a>
@@ -106,7 +91,7 @@
         <div class="information-vege">
             <div class="headline1">Produk Terlaris</div>
             <div class="information-row">
-                <a asp-controller="Product" asp-action="Product">
+                <a asp-controller="Login" asp-action="UserLogin">
                     <div class="obj">
                         <img src="/assets/kangkung.jpg" class="vege-img">
                         <section class="topobj">
@@ -126,7 +111,7 @@
                     </div>
 
                 </a>
-                <a asp-controller="Product" asp-action="Product">
+                <a asp-controller="Login" asp-action="UserLogin">
                     <div class="obj">
                         <img src="/assets/kangkung.jpg" class="vege-img">
                         <section class="topobj">
@@ -145,7 +130,7 @@
                         </div>
                     </div>
                 </a>
-                <a asp-controller="Product" asp-action="Product">
+                <a asp-controller="Login" asp-action="UserLogin">
                     <div class="obj">
                         <img src="/assets/kangkung.jpg" class="vege-img">
                         <section class="topobj">
@@ -164,7 +149,7 @@
                         </div>
                     </div>
                 </a>
-                <a asp-controller="Product" asp-action="Product">
+                <a asp-controller="Login" asp-action="UserLogin">
                     <div class="obj">
                         <img src="/assets/kangkung.jpg" class="vege-img">
                         <section class="topobj">
@@ -184,7 +169,7 @@
                     </div>
                 </a>
 
-                <a asp-controller="Product" asp-action="Product">
+                <a asp-controller="Login" asp-action="UserLogin">
                     <div class="obj">
                         <img src="/assets/kangkung.jpg" class="vege-img">
                         <section class="topobj">
@@ -203,7 +188,7 @@
                         </div>
                     </div>
                 </a>
-                <a asp-controller="Product" asp-action="Product">
+                <a asp-controller="Login" asp-action="UserLogin">
                     <div class="obj">
                         <img src="/assets/kangkung.jpg" class="vege-img">
                         <section class="topobj">
@@ -222,7 +207,7 @@
                         </div>
                     </div>
                 </a>
-                <a asp-controller="Product" asp-action="Product">
+                <a asp-controller="Login" asp-action="UserLogin">
                     <div class="obj">
                         <img src="/assets/kangkung.jpg" class="vege-img">
                         <section class="topobj">
@@ -241,7 +226,7 @@
                         </div>
                     </div>
                 </a>
-                <a asp-controller="Product" asp-action="Product">
+                <a asp-controller="Login" asp-action="UserLogin">
                     <div class="obj">
                         <img src="/assets/kangkung.jpg" class="vege-img">
                         <section class="topobj">
@@ -267,7 +252,7 @@
         <div class="information-vege">
             <div class="headline1">Jasa Terpopuler Saat Ini</div>
             <div class="information-row">
-                <a asp-controller="Product" asp-action="Product">
+                <a asp-controller="Login" asp-action="UserLogin">
                     <div class="obj">
                         <img src="/assets/kangkung.jpg" class="vege-img">
                         <section class="topobj">
@@ -286,7 +271,7 @@
                         </div>
                     </div>
                 </a>
-                <a asp-controller="Product" asp-action="Product">
+                <a asp-controller="Login" asp-action="UserLogin">
                     <div class="obj">
                         <img src="/assets/kangkung.jpg" class="vege-img">
                         <section class="topobj">
@@ -305,7 +290,7 @@
                         </div>
                     </div>
                 </a>
-                <a asp-controller="Product" asp-action="Product">
+                <a asp-controller="Login" asp-action="UserLogin">
                     <div class="obj">
                         <img src="/assets/kangkung.jpg" class="vege-img">
                         <section class="topobj">
@@ -324,7 +309,7 @@
                         </div>
                     </div>
                 </a>
-                <a asp-controller="Product" asp-action="Product">
+                <a asp-controller="Login" asp-action="UserLogin">
                     <div class="obj">
                         <img src="/assets/kangkung.jpg" class="vege-img">
                         <section class="topobj">
@@ -344,7 +329,7 @@
                     </div>
                 </a>
 
-                <a asp-controller="Product" asp-action="Product">
+                <a asp-controller="Login" asp-action="UserLogin">
                     <div class="obj">
                         <img src="/assets/kangkung.jpg" class="vege-img">
                         <section class="topobj">
@@ -363,7 +348,7 @@
                         </div>
                     </div>
                 </a>
-                <a asp-controller="Product" asp-action="Product">
+                <a asp-controller="Login" asp-action="UserLogin">
                     <div class="obj">
                         <img src="/assets/kangkung.jpg" class="vege-img">
                         <section class="topobj">
@@ -382,7 +367,7 @@
                         </div>
                     </div>
                 </a>
-                <a asp-controller="Product" asp-action="Product">
+                <a asp-controller="Login" asp-action="UserLogin">
                     <div class="obj">
                         <img src="/assets/kangkung.jpg" class="vege-img">
                         <section class="topobj">
@@ -401,7 +386,7 @@
                         </div>
                     </div>
                 </a>
-                <a asp-controller="Product" asp-action="Product">
+                <a asp-controller="Login" asp-action="UserLogin">
                     <div class="obj">
                         <img src="/assets/kangkung.jpg" class="vege-img">
                         <section class="topobj">
