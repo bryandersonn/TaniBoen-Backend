@@ -16,32 +16,29 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Gabarito:wght@600&family=Katibeh&family=Libre+Franklin:wght@700&family=Nanum+Myeongjo&family=Oswald:wght@300&family=Poppins:wght@100&family=Roboto+Slab:wght@500&family=Roboto:wght@500&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/css/Taniboen_Footer.css">
-    <title>Taniboen</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>TaniBoen</title>
 </head>
 <body>
 
     <div class="navbar">
         <div class="left-section">
-            <a href="Taniboen_Home_Page.html">
+            <a asp-controller="HomeGuest" asp-action="IndexGuest">
                 <img src="/assets/logo taniboen remove bg2.png" alt="logo taniboen">
             </a>
-            Taniboen
+            TaniBoen
         </div>
         <div class="right-section">
             <ul class="menu">
                 <li class="menu-choice">
-                    <a class="menu-link" asp-controller="Home" asp-action="Index">Home</a>
+                    <a class="menu-link" asp-controller="HomeGuest" asp-action="IndexGuest">Home</a>
                 </li>
                 <li class="menu-choice">
                     <a class="menu-link" asp-controller="Login" asp-action="UserLogin">Login</a>
                 </li>
                 <li class="menu-choice">
-                    <a class="menu-link" asp-controller="Register" asp-action="UserRegister">Sign up</a>
-                </li>
-                <li class="menu-choice">
-                    <a class="menu-link" asp-controller="ShoppingCart" asp-action="ShoppingCart">
-                        <img src="/assets/shopping-cart-removebg-preview.png" alt="shopping-cart">
-                    </a>
+                    <a class="menu-link" asp-controller="Register" asp-action="UserRegister">Sign Up</a>
                 </li>
             </ul>
             <div class="hamburger">
@@ -127,23 +124,38 @@
         <div class="footer-upper">
             <div class="footer-upper-left">
                 <div class="footer-upper-left-title">
-                    About Taniboen
+                    Tentang TaniBoen
                 </div>
                 <div class="footer-upper-left-content">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit perspiciatis reiciendis tempore, eum corporis enim dolores modi doloremque quo asperiores architecto, alias incidunt saepe iste quidem, quisquam eaque porro fuga!
+                    Taniboen Indonesia dengan bangga fokus pada membangun masa depan yang kaya untuk pertanian Indonesia. Kami tinggal dan bekerja di daerah tersebut serta mewakili kepentingan dan aspirasi para produsen utama dan komunitas pedesaan, memberikan nilai nyata dalam setiap hal yang kami lakukan.
                 </div>
             </div>
             <div class="footer-upper-right">
                 <div class="footer-upper-right-title">
-                    Contacts
+                    Kontak Kami
                 </div>
                 <div class="footer-upper-right-content">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime tempore nostrum ex sapiente molestias qui voluptate nemo expedita unde inventore, aspernatur quaerat! Quam, libero nobis corrupti sequi eligendi vitae numquam.
+                    <div class="locationfooter">
+                        <i class="fa-solid fa-location-dot"></i>
+                        <span>Cengkareng, Jakarta Barat</span>
+                    </div>
+                    <div class="emailfooter">
+                        <i class="fa-solid fa-envelope"></i>
+                        <span>taniboen@gmail.com</span>
+                    </div>
+                    <div class="phonefooter">
+                        <i class="fa-solid fa-phone"></i>
+                        <span>+62 813509080</span>
+                    </div>
+                    <div class="webfooter">
+                        <i class="fa-solid fa-globe"></i>
+                        <span>www.taniboen.com</span>
+                    </div>
                 </div>
             </div>
         </div>
         <div class="footer-lower">
-            Copyright &copy; 2024 [Taniboen] All Rights Reserved
+            Copyright &copy; 2024 [TaniBoen] All Rights Reserved
         </div>
     </div>
 

@@ -9,7 +9,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="/css/TaniBoen_Payment.css">
+    <link rel="stylesheet" href="/css/TaniBoen_DetailPayment_Page.css">
     <link rel="stylesheet" href="/css/Taniboen_Navbar.css">
     <link rel="stylesheet" href="/css/Taniboen_Footer.css">
     <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
@@ -60,7 +60,7 @@
     <div class="main">
         <div class="title-container">
             <div class="title">
-                Pembayaran
+               Detail Pembayaran
             </div>
         </div>
 
@@ -96,7 +96,7 @@
                                     Mun&Co
                                 </div>
                                 <div class="chat">
-                                    <a asp-controller="Chat" asp-action="Chat"><button>Chat</button></a>
+                                    <a asp-controller="Chat" asp-action="Chat" class="chat-view"><button>Chat</button></a>
                                 </div>
                             </div>
                         </div>
@@ -174,14 +174,12 @@
                     <div class="payment-details">
                         <img src="/assets/cod.png">
                         <label>
-                            <input type="checkbox" name="payment" value="cod">
                             Cash On Delivery
                         </label>
                     </div>
                     <div class="payment-details">
                         <img src="/assets/bca.png">
                         <label>
-                            <input type="checkbox" name="payment" value="cod">
                             BCA Virtual Account
                         </label>
                     </div>
@@ -189,7 +187,6 @@
                     <div class="payment-details">
                         <img src="/assets/mandiri.png">
                         <label>
-                            <input type="checkbox" name="payment" value="cod">
                             Bank Mandiri
                         </label>
                     </div>
@@ -197,7 +194,6 @@
                     <div class="payment-details">
                         <img src="/assets/bri.png">
                         <label>
-                            <input type="checkbox" name="payment" value="cod">
                             Bank BRI
                         </label>
                     </div>
@@ -205,7 +201,6 @@
                     <div class="payment-details">
                         <img src="/assets/gopay.png">
                         <label>
-                            <input type="checkbox" name="payment" value="cod">
                             Go-Pay
                         </label>
                     </div>
@@ -213,8 +208,8 @@
                     <div class="payment-details">
                         <img src="/assets/spay.png">
                         <label>
-                            <input type="checkbox" name="payment" value="cod">
                             ShopeePay
+                            <i class="fa-solid fa-check"></i>
                         </label>
                     </div>
                 </div>
@@ -266,16 +261,28 @@
                     </div>
                 </div>
 
-                <div class="pay-container">
-                    <div class="final-cost">
-                        Harga Bayar : Rp 19.000
+                <div class="price-total">
+                    Total Harga : Rp 19.000
+                </div>
+                <div class="paybutton">
+                    <a asp-controller="Product" asp-action="Product"><button>Beli Lagi</button></a>
+                </div>
+
+
+                <div class="rate-price">
+                    <div class="rate">
+                        Jangan lupa beri rating!
+                    </div>
+                    <div class="star-paybutton">
+                        <div class="star">
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star unchecked"></span>
+                        </div>
                     </div>
                 </div>
-                <a asp-controller="Home" asp-action="Index">
-                    <div class="button">
-                        <button>Bayar</button>
-                    </div>
-                </a>
             </div>
         </div>
     </div>

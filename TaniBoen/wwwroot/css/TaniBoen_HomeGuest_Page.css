@@ -1,6 +1,9 @@
 *{
     margin: 0%;
     padding: 0%;
+    /* background-image: url("/assets/Taniboen\ Background.png");
+    background-size: cover;
+    background-position: center; */
     font-family: 'Poppins';
 }
 
@@ -8,112 +11,118 @@ body{
     background: rgba(238, 242, 247, 1);
 }
 
-.headlinetop{
-    display: flex;
-    font-size: 25px;
-    font-weight: bold;
-    width: 86%;
-    margin-left: 130px;
-    margin-bottom: 50px;
-}
-
-.product-seller-information{
-    width: 90%;
-    height: 60%;
-    border-radius: 10px;
+.introduction-container{
+    background: url('/assets/background-introduction.jpg')no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: white;
-    margin: 0 auto;
-    box-shadow: 0 0.25rem 1.2rem -1rem rgb(63, 61, 61);
-    word-wrap: break-word;  
-  }
-
-.left-seller-container{
-    display: flex;
-    gap: 20px;
-    align-items: center;
 }
 
-.left-seller-container .line{
-    margin: 100px;
-}
-
-  .seller{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-
-  .seller img{
-    height: 150px;
-    width: 150px;
-  }
-
-  .seller-bio-container{
+.introduction{
+    background: rgba(233, 232, 211, 0.6); 
+    backdrop-filter: blur(1px); 
     display: flex;
     flex-direction: column;
-    gap: 5px;
-    justify-content: center;
-  }
-
-  .seller-title{
-    font-size: 16px;
-    font-weight: bolder;
-  }
-
-  .seller-online{
-    color: #696969;
-    font-size: 12px;
-  }
-
-  .seller-chat{
-    display: flex;
     justify-content: center;
     align-items: center;
-  }
-
-  .seller-chat button{
-    background-color: #518300;
-    color: white;
-    width: 70px;
-    height: 36px;
-    border-radius: 8px;
-    outline: none;
-    border: none;
-    cursor: pointer;
-  }
-
-  .seller-chat button:hover{
-    opacity: 80%;
-  }
-
-  
-.line{
-    width: 1px; 
-    height: 100px; 
-    background-color: grey; 
-  }
-
-.seller-availability{
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    width: 844px;
-    height: 68px;
-}
-
-
-.follower-rating-reply-percentage-product-join-container{
-    display: flex;
-    flex-direction: column;
     gap: 50px;
+    padding: 50px;
+    border-radius: 10px;
 }
 
-.seller-text{
-    color: #518300;
+.intro-title{
     font-weight: bold;
+    font-size: 35px;
+}
+
+.intro-greet{
+    font-size: 25px;
+}
+
+.information-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-direction: column;
+    font-size: 35px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-weight: bold;
+}
+
+.carouselcontainer{
+    justify-content: center;
+    align-items: center;
+}
+
+.slider-wrapper{
+    position: relative;
+    max-width: 75rem;
+    margin: 0 auto;
+}
+
+.slider{
+    display: flex;
+    aspect-ratio: 16/9;
+    overflow-x: hidden;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+    box-shadow: 0 0.75rem 1.5rem -0.75rem hsla(0, 0%, 0%, 0.25);
+    border-radius: 10px;
+}
+
+.slider img{
+    flex: 1 0 100%;
+    scroll-snap-type: start;
+    object-fit: cover;
+    transition: all 0.5s ease;
+}
+
+.slider input{
+    display: none;
+}
+
+
+.dots {
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+    position: absolute;
+    bottom: 1.25rem;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1;
+}
+
+.dots label {
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    border: solid #fff 3px;
+    cursor: pointer;
+    transition: all 0.15s ease;
+    margin: 5px;
+    background: hsla(0, 0%, 0%, 0.25);
+}
+
+.dots label:hover {background: rgba(81, 131, 0, 1);}
+
+#img1:checked ~ .m1 {
+    margin-left: 0;
+}
+#img2:checked ~ .m2 {
+    margin-left: -100%;
+}
+#img3:checked ~ .m3 {
+    margin-left: -200%;
+}
+#img4:checked ~ .m4 {
+    margin-left: -300%;
 }
 
 .searchcontainer{
@@ -124,8 +133,8 @@ body{
     width: 1200px;
     height: 50px;
     margin: 0 auto;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-top: 35px;
+    margin-bottom: 130px;
     border: solid 0.5px;
     border-color: hsla(0, 0%, 0%, 0.25);
     border-radius: 10px;
@@ -145,10 +154,9 @@ body{
 
 .headline1{
     display: flex;
-    font-size: 25px;
+    font-size: 35px;
     font-weight: bold;
     width: 86%;
-    margin-top: 100px;
 }
 
 .information-vege{

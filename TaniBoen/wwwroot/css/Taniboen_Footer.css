@@ -37,3 +37,32 @@
     display: flex;
     justify-content: center;
 }
+
+.footer-upper-right-content{
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-upper-left-content{
+    text-align: justify;
+}
+
+.fa-location-dot{
+    color: black;
+    margin-right: 5px;
+}
+
+.fa-envelope{
+    color: black;
+    margin-right: 5px;
+}
+
+.fa-phone{
+    color: black;
+    margin-right: 5px;
+}
+
+.fa-globe{
+    color: black;
+    margin-right: 5px;
+}

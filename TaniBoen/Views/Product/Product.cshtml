@@ -10,16 +10,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/css/Taniboen_Navbar.css">
     <link rel="stylesheet" href="/css/TaniBoen_Products.css">
+    <link rel="stylesheet" href="/css/Taniboen_Footer.css">
     <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <script src="/js/TaniBoen_Product.js"></script>
-    <title>Document</title>
+    <title>TaniBoen</title>
 </head>
 <body>
     <div class="navbar">
         <div class="left-section">
-            <a href="Taniboen_Home_Page.html">
+            <a asp-controller="Home" asp-action="Index">
                 <img src="/assets/logo taniboen remove bg2.png" alt="logo taniboen">
             </a>
             TaniBoen
@@ -30,10 +31,7 @@
                     <a class="menu-link" asp-controller="Home" asp-action="Index">Home</a>
                 </li>
                 <li class="menu-choice">
-                    <a class="menu-link" asp-controller="Login" asp-action="UserLogin">Login</a>
-                </li>
-                <li class="menu-choice">
-                    <a class="menu-link" asp-controller="Register" asp-action="UserRegister">Sign up</a>
+                    <a class="menu-link" asp-controller="Login" asp-action="UserLogin">Logout</a>
                 </li>
                 <li class="menu-choice">
                     <a class="menu-link" asp-controller="ShoppingCart" asp-action="ShoppingCart">
@@ -136,7 +134,7 @@
 
                 <div class="product-confirmation">
                     <div class="cart">
-                        <a class="menu-link" asp-controller="ShoppingCart" asp-action="ShoppingCart">
+                        <a asp-controller="ShoppingCart" asp-action="ShoppingCart">
                             <button>
                                 <img src="/assets/shopping-cart-removebg-preview.png" alt="shopping-cart">
                                 Masukkan Keranjang
@@ -166,7 +164,7 @@
                     </div>
 
                     <div class="seller-chat">
-                        <a href="/html/Taniboen_Chat_Page.html"><button>Chat</button></a>
+                        <a asp-controller="Chat" asp-action="Chat"><button>Chat</button></a>
                     </div>
                 </div>
                 <div class="line"></div>
@@ -213,7 +211,7 @@
 
             <div class="product-spec-inner">
                 <div class="product-stock">
-                    Stock <span class="seller-text">50</span>
+                    Stok <span class="seller-text">50</span>
                 </div>
 
                 <div class="product-from">
@@ -237,7 +235,7 @@
                 *Pemesanan di atas jam 3 sore akan dikirim besok<br>
                 *Toko buka setiap hari Senin - Minggu
                 *Jika ada komplain atau kekurangan silahkan menghubungi kami dengan menyertakan bukti foto atau video saat melakukan unboxing<br>
-                *Pengiriman instan same day akan dikirim menggunakan pengiriman kurir instan,pengiriman akan di mulai jam 8 pagi sesuai antrian orderan yg masuk sejak kemarin<br>
+                *Pengiriman instan same day akan dikirim menggunakan pengiriman kurir instan,pengiriman akan di mulai jam 8 pagi sesuai antrian orderan yg masuk sejak kemarin
             </div>
             <div class="closing-desc">
                 Jika ada pertanyaan silahkan menghubungi kami terimakasih 🙏 tidak perlu kepasar lagi biar kami yang belanjakan dipasar
@@ -253,8 +251,8 @@
                 </div>
 
                 <div class="rating-page">
-                    <div class="product-rating">
-                        4.0<span class="fa fa-star fa-3x checked"></span> <span class="rate-review">100 Penilaian - 8 Ulasan</span>
+                    <div class="product-rating2">
+                        4.0<span class="fa fa-star checked"></span> <span class="rate-review">100 Penilaian - 8 Ulasan</span>
                     </div>
                     <div class="other-review">
                         Menunjukan 5 dari 8 Ulasan
@@ -265,7 +263,7 @@
             <div class="customer-review-wrapper">
                 <div class="user">
                     <div class="customer-profile">
-                        <i class="fa-solid fa-circle-user"></i>
+                        <i class="fa-solid fa-3x fa-circle-user"></i>
                     </div>
 
                     <div class="rating">
@@ -273,12 +271,12 @@
                             Eun
                         </div>
                         <div class="customer-rating">
-                            <span class="fa fa-star fa-3x checked"></span>
-                            <span class="fa fa-star fa-3x checked"></span>
-                            <span class="fa fa-star fa-3x checked"></span>
-                            <span class="fa fa-star fa-3x checked"></span>
-                            <span class="fa fa-star fa-3x"></span>
-                            1 bulan yang lalu
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star unchecked"></span>
+                            <div class="timestamp">1 bulan yang lalu</div>
                         </div>
 
                         <div class="customer-comment">
@@ -295,7 +293,7 @@
 
                 <div class="user">
                     <div class="customer-profile">
-                        <i class="fa-solid fa-circle-user"></i>
+                        <i class="fa-solid fa-3x fa-circle-user"></i>
                     </div>
 
                     <div class="rating">
@@ -303,12 +301,12 @@
                             Eun
                         </div>
                         <div class="customer-rating">
-                            <span class="fa fa-star fa-3x checked"></span>
-                            <span class="fa fa-star fa-3x checked"></span>
-                            <span class="fa fa-star fa-3x checked"></span>
-                            <span class="fa fa-star fa-3x checked"></span>
-                            <span class="fa fa-star fa-3x"></span>
-                            1 bulan yang lalu
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star unchecked"></span>
+                            <div class="timestamp">1 bulan yang lalu</div>
                         </div>
 
                         <div class="customer-comment">
@@ -324,7 +322,7 @@
 
                 <div class="user">
                     <div class="customer-profile">
-                        <i class="fa-solid fa-circle-user"></i>
+                        <i class="fa-solid fa-3x fa-circle-user"></i>
                     </div>
 
                     <div class="rating">
@@ -332,12 +330,12 @@
                             Eun
                         </div>
                         <div class="customer-rating">
-                            <span class="fa fa-star fa-3x checked"></span>
-                            <span class="fa fa-star fa-3x checked"></span>
-                            <span class="fa fa-star fa-3x checked"></span>
-                            <span class="fa fa-star fa-3x checked"></span>
-                            <span class="fa fa-star fa-3x"></span>
-                            1 bulan yang lalu
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star unchecked"></span>
+                            <div class="timestamp">1 bulan yang lalu</div>
                         </div>
 
                         <div class="customer-comment">
@@ -353,7 +351,7 @@
 
                 <div class="user">
                     <div class="customer-profile">
-                        <i class="fa-solid fa-circle-user"></i>
+                        <i class="fa-solid fa-3x fa-circle-user"></i>
                     </div>
 
                     <div class="rating">
@@ -361,12 +359,12 @@
                             Eun
                         </div>
                         <div class="customer-rating">
-                            <span class="fa fa-star fa-3x checked"></span>
-                            <span class="fa fa-star fa-3x checked"></span>
-                            <span class="fa fa-star fa-3x checked"></span>
-                            <span class="fa fa-star fa-3x checked"></span>
-                            <span class="fa fa-star fa-3x"></span>
-                            1 bulan yang lalu
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star unchecked"></span>
+                            <div class="timestamp">1 bulan yang lalu</div>
                         </div>
 
                         <div class="customer-comment">
@@ -383,7 +381,7 @@
 
                 <div class="user">
                     <div class="customer-profile">
-                        <i class="fa-solid fa-circle-user"></i>
+                        <i class="fa-solid fa-3x fa-circle-user"></i>
                     </div>
 
                     <div class="rating">
@@ -391,12 +389,12 @@
                             Eun
                         </div>
                         <div class="customer-rating">
-                            <span class="fa fa-star fa-3x checked"></span>
-                            <span class="fa fa-star fa-3x checked"></span>
-                            <span class="fa fa-star fa-3x checked"></span>
-                            <span class="fa fa-star fa-3x checked"></span>
-                            <span class="fa fa-star fa-3x"></span>
-                            1 bulan yang lalu
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star unchecked"></span>
+                            <div class="timestamp">1 bulan yang lalu</div>
                         </div>
 
                         <div class="customer-comment">
@@ -412,7 +410,7 @@
 
                 <div class="user">
                     <div class="customer-profile">
-                        <i class="fa-solid fa-circle-user"></i>
+                        <i class="fa-solid fa-3x fa-circle-user"></i>
                     </div>
 
                     <div class="rating">
@@ -420,12 +418,12 @@
                             Eun
                         </div>
                         <div class="customer-rating">
-                            <span class="fa fa-star fa-3x checked"></span>
-                            <span class="fa fa-star fa-3x checked"></span>
-                            <span class="fa fa-star fa-3x checked"></span>
-                            <span class="fa fa-star fa-3x checked"></span>
-                            <span class="fa fa-star fa-3x"></span>
-                            1 bulan yang lalu
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star unchecked"></span>
+                            <div class="timestamp">1 bulan yang lalu</div>
                         </div>
 
                         <div class="customer-comment">
@@ -441,7 +439,7 @@
 
                 <div class="user">
                     <div class="customer-profile">
-                        <i class="fa-solid fa-circle-user"></i>
+                        <i class="fa-solid fa-3x fa-circle-user"></i>
                     </div>
 
                     <div class="rating">
@@ -449,12 +447,12 @@
                             Eun
                         </div>
                         <div class="customer-rating">
-                            <span class="fa fa-star fa-3x checked"></span>
-                            <span class="fa fa-star fa-3x checked"></span>
-                            <span class="fa fa-star fa-3x checked"></span>
-                            <span class="fa fa-star fa-3x checked"></span>
-                            <span class="fa fa-star fa-3x"></span>
-                            1 bulan yang lalu
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star unchecked"></span>
+                            <div class="timestamp">1 bulan yang lalu</div>
                         </div>
 
                         <div class="customer-comment">
@@ -476,6 +474,45 @@
                 </div>
 
             </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        <div class="footer-upper">
+            <div class="footer-upper-left">
+                <div class="footer-upper-left-title">
+                    Tentang TaniBoen
+                </div>
+                <div class="footer-upper-left-content">
+                    Taniboen Indonesia dengan bangga fokus pada membangun masa depan yang kaya untuk pertanian Indonesia. Kami tinggal dan bekerja di daerah tersebut serta mewakili kepentingan dan aspirasi para produsen utama dan komunitas pedesaan, memberikan nilai nyata dalam setiap hal yang kami lakukan.
+                </div>
+            </div>
+            <div class="footer-upper-right">
+                <div class="footer-upper-right-title">
+                    Kontak Kami
+                </div>
+                <div class="footer-upper-right-content">
+                    <div class="locationfooter">
+                        <i class="fa-solid fa-location-dot"></i>
+                        <span>Cengkareng, Jakarta Barat</span>
+                    </div>
+                    <div class="emailfooter">
+                        <i class="fa-solid fa-envelope"></i>
+                        <span>taniboen@gmail.com</span>
+                    </div>
+                    <div class="phonefooter">
+                        <i class="fa-solid fa-phone"></i>
+                        <span>+62 813509080</span>
+                    </div>
+                    <div class="webfooter">
+                        <i class="fa-solid fa-globe"></i>
+                        <span>www.taniboen.com</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-lower">
+            Copyright &copy; 2024 [TaniBoen] All Rights Reserved
         </div>
     </div>
 
