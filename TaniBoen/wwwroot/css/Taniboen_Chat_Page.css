@@ -1,0 +1,128 @@
+*{
+    margin: 0%; 
+    padding: 0%; 
+    font-family: 'Poppins';
+}
+.main{
+    display: flex;
+    height: 92.6vh;
+}
+.left{
+    width: 30%;
+    border-right: 2px solid black;
+    display: flex;
+    flex-direction: column;
+}
+.left .chat-upper{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.left .chat-upper .chat-title{
+    font-weight: bolder;
+}
+.left .chat-search-bar{
+    border: 1.5px solid grey;
+    padding: 5px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.left .chat-search-bar img{
+    width: 20px;
+}
+.left .chat-search-bar input{
+    border: none;
+    outline: none;
+}
+.left .chats{
+    display: flex;
+    flex-direction: column;
+}
+.left .chats #current{
+    background-color: lightgrey;
+}
+.left .chat-person{
+    display: flex;
+    padding: 10px;
+    gap: 10px;
+    border-bottom: 1.5px solid lightgrey;
+}
+.left .chat-person .chat-profile-left{
+    display: flex;
+    align-items: center;
+}
+.left .chat-person img{
+    width: 60px;
+    background-color: white;
+    border-radius: 60px;
+}
+.right{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+}
+.right table td{
+    padding-right: 10px;
+}
+.right .chat-people{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.right #right .bubble-chat{
+    background-color: rgba(81, 131, 0, 1);
+    border-radius: 10px 10px 0px 10px;
+    color: white;
+}
+.right #left .bubble-chat{
+    border-radius: 10px 10px 10px 0px;
+    background-color: lightgray;
+}
+.right .bubble-chat{
+    border: none;
+    padding: 8px;
+}
+.right .waktu{
+    text-align: center;
+}
+.right .enter-message{
+    border: 1px solid grey;
+    padding: 8px;
+    border-radius: 5px;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.right input{
+    border: none;
+    outline: none;
+    width: 100%;
+}
+.right .enter-message-left{
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+.right .enter-message-right{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.right .enter-message-right img{
+    width: 20px;
+    height: 20px;
+}
+.right .enter-message-right img:hover{
+    opacity: .8;
+    transition: .15s;
+    cursor: pointer;
+}
+.right .enter-message-right img:active{
+    opacity: .6;
+    transition: .15s;
+}

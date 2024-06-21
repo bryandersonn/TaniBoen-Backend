@@ -1,0 +1,175 @@
+﻿@{
+    Layout = null;
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="/assets/logo taniboen remove bg2.png">
+    <link rel="stylesheet" href="/css/Taniboen_Navbar.css">
+    <link rel="stylesheet" href="/css/Taniboen_Profile.css">
+    <link rel="stylesheet" href="/css/Taniboen_Footer.css">
+    <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
+    <title>Taniboen</title>
+
+</head>
+<body>
+    <div class="navbar">
+        <div class="left-section">
+            <a href="Taniboen_Home_Page.html">
+                <img src="/assets/logo taniboen remove bg2.png" alt="logo taniboen">
+            </a>
+            TaniBoen
+        </div>
+        <div class="right-section">
+            <ul class="menu">
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Home" asp-action="Index">Home</a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Login" asp-action="UserLogin">Login</a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Register" asp-action="UserRegister">Sign up</a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="ShoppingCart" asp-action="ShoppingCart">
+                        <img src="/assets/shopping-cart-removebg-preview.png" alt="shopping-cart">
+                    </a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Profile" asp-action="Profile">
+                        <img src="/assets/profile.png" alt="profile">
+                    </a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Chat" asp-action="Chat">
+                        <img src="/assets/chat-page.png" alt="chat">
+                    </a>
+                </li>
+            </ul>
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="main">
+        <div class="introduction-container">
+        </div>
+
+        <div class="profile-container">
+            <img src="/assets/profile-img.png">
+            <div class="profile">
+                <div class="profile-name">
+                    Charles
+                </div>
+                <div class="saldo">
+                    Rp 2.500.000
+                </div>
+            </div>
+        </div>
+
+        <div class="name-date-container">
+            <div class="nama-panggilan">
+                Nama Panggilan
+                <div class="box-nama">
+                    <input type="textbox" name="payment" placeholder="Edit Nama">
+                </div>
+            </div>
+            <div class="nama-panggilan">
+                Tanggal Lahir
+                <div class="box-nama">
+                    <input type="date">
+                </div>
+            </div>
+        </div>
+
+        <div class="name-date-container">
+            <div class="nama-panggilan">
+                Nama Lengkap
+                <div class="box-nama">
+                    <input type="textbox" name="payment" placeholder="Edit Nama">
+                </div>
+            </div>
+            <div class="nama-panggilan">
+                Alamat
+                <div class="box-nama">
+                    <input type="textbox" placeholder="Alamat">
+                </div>
+            </div>
+        </div>
+
+        <div class="name-date-container">
+            <div class="nama-panggilan">
+                Email
+                <div class="box-nama">
+                    <input type="textbox" name="payment" placeholder="Editmail">
+                </div>
+            </div>
+            <div class="nama-panggilan">
+                <div class="box-nama">
+                    <div class="form-group">
+                        <label for="gender">Jenis Kelamin</label>
+                        <select id="gender" name="gender">
+                            <option value="male">Laki-laki</option>
+                            <option value="female">Perempuan</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="name-date-container">
+            <div class="nama-panggilan">
+                Nomor Telepon
+                <div class="box-nama">
+                    <input type="textbox" name="payment" placeholder="Edit Nama">
+                </div>
+            </div>
+            <div class="profile-choice">
+                <div class="history">
+                    <a asp-controller="OrderHistory" asp-action="OrderHistory"><button>Riwayat Pesanan</button></a>
+                </div>
+                <div class="delete">
+                    <button>Delete Account</button>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+
+    <div class="footer">
+        <div class="footer-upper">
+            <div class="footer-upper-left">
+                <div class="footer-upper-left-title">
+                    About Taniboen
+                </div>
+                <div class="footer-upper-left-content">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit perspiciatis reiciendis tempore, eum corporis enim dolores modi doloremque quo asperiores architecto, alias incidunt saepe iste quidem, quisquam eaque porro fuga!
+                </div>
+            </div>
+            <div class="footer-upper-right">
+                <div class="footer-upper-right-title">
+                    Contacts
+                </div>
+                <div class="footer-upper-right-content">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime tempore nostrum ex sapiente molestias qui voluptate nemo expedita unde inventore, aspernatur quaerat! Quam, libero nobis corrupti sequi eligendi vitae numquam.
+                </div>
+            </div>
+        </div>
+        <div class="footer-lower">
+            Copyright &copy; 2024 [Taniboen] All Rights Reserved
+        </div>
+    </div>
+
+    <script src="/js/Taniboen_Navbar.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins';
+}
+.main{
+    background: url('/assets/farming-background.jpg')no-repeat;
+    background-size: cover;
+    font-family: sans-serif;
+}
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%; 
+    min-height: 92.6vh;
+    flex-direction: column;
+    gap: 20px;
+}
+.shopping-cart-title{
+    font-size: 30px;
+    font-weight: bold;
+    /* color: red; */
+}
+.shopping-cart-content table{
+    /* border-collapse: collapse; */
+    border-spacing: 0px 25px;
+}
+.shopping-cart-content th{
+    text-align: center;
+    padding: 20px;
+    background-color: white;
+    color: green;
+    font-weight: bold;
+}
+.shopping-cart-content tr{
+    box-shadow: 3px 3px 10px black;
+}
+.shopping-cart-content td{
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.shopping-cart-content img{
+    max-height: 80px;
+}
+.main button{
+    background: transparent;
+    border: none;
+    background-color: green;
+    padding: 5px;
+    color: white;
+}
+.main button:hover{
+    cursor: pointer;
+    opacity: 0.8;
+    transition: 0.2s;
+}
+.main button:active{
+    opacity: 0.6;
+    transition: 0.2s;
+}
+.shopping-cart-content .quantity-counter{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid white;
+}
+.shopping-cart-content .quantity-counter input{
+    display: flex;
+    text-align: center;
+    width: 30px;
+    background: transparent;
+    border: none;
+    border: 1px solid red;
+    outline: none;
+}
+.shopping-cart-content .quantity-counter button{
+    width: 30px;
+    border: none;
+    background: transparent;
+}
+.shopping-cart-content .quantity-counter .plusminus{
+    background-color: red;
+}
+.shopping-cart-content .quantity-counter .plusminus:hover{
+    cursor: pointer;
+    opacity: 0.8;
+    transition: 0.2s;
+}
+.shopping-cart-content .quantity-counter .plusminus:active{
+    opacity: 0.6;
+    transition: 0.2s;
+}
+.shopping-cart-content .action-button{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.checkout button{
+    padding: 15px;
+    border-radius: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}

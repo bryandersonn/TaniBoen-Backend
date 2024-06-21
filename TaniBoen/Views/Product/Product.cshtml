@@ -1,0 +1,485 @@
+﻿@{
+    Layout = null;
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/Taniboen_Navbar.css">
+    <link rel="stylesheet" href="/css/TaniBoen_Products.css">
+    <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="/js/TaniBoen_Product.js"></script>
+    <title>Document</title>
+</head>
+<body>
+    <div class="navbar">
+        <div class="left-section">
+            <a href="Taniboen_Home_Page.html">
+                <img src="/assets/logo taniboen remove bg2.png" alt="logo taniboen">
+            </a>
+            TaniBoen
+        </div>
+        <div class="right-section">
+            <ul class="menu">
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Home" asp-action="Index">Home</a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Login" asp-action="UserLogin">Login</a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Register" asp-action="UserRegister">Sign up</a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="ShoppingCart" asp-action="ShoppingCart">
+                        <img src="/assets/shopping-cart-removebg-preview.png" alt="shopping-cart">
+                    </a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Profile" asp-action="Profile">
+                        <img src="/assets/profile.png" alt="profile">
+                    </a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Chat" asp-action="Chat">
+                        <img src="/assets/chat-page.png" alt="chat">
+                    </a>
+                </li>
+            </ul>
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="main">
+        <div class="product">
+            <div class="product-img">
+                <img src="/assets/kangkung.jpg" class="vege-img">
+            </div>
+
+            <div class="product-information">
+                <div class="product-title">
+                    Sayur Kangkung Segar, Murah Makassar
+                </div>
+
+                <div class="product-selling">
+                    <div class="product-rating">
+                        <div class="starinfo">4.0</div>
+                        <span class="fa fa-star checked"></span>
+                        <span class="fa fa-star checked"></span>
+                        <span class="fa fa-star checked"></span>
+                        <span class="fa fa-star checked"></span>
+                        <span class="fa fa-star unchecked"></span>
+                    </div>
+
+                    <div class="product-total-review">
+                        <span class="numbertotal">100</span>
+                        <span class="labeltotal">Penilaian</span>
+                    </div>
+
+                    <div class="product-sold">
+                        <span class="numbertotal">500</span>
+                        <span class="labeltotal">Terjual</span>
+                    </div>
+                </div>
+
+                <div class="product-price">
+                    Rp12.000
+                </div>
+                <div class="product-shipping">
+                    Pengiriman
+                    <i class="fa-solid fa-truck"></i>
+                </div>
+
+                <div class="product-destination">
+                    Dikirim ke:  <span class="destination-delivery">Kota Jakarta Barat</span>
+                </div>
+
+                <div class="product-deliverycost">
+                    Ongkos Kirim:
+                    <div class="dropdown">
+                        <button id="selectedDelivery">Pilih Ongkir</button>
+                        <div class="deliverytype">
+                            <button onclick="showText(this)" class="reguler">Reguler <span class="deliveryprice">| Rp5.000</span></button>
+                            <button onclick="showText(this)" class="today">Today <span class="deliveryprice">| Rp10.000</span></button>
+                            <button onclick="showText(this)" class="instant">Instant <span class="deliveryprice">| Rp20.000</span></button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="result" id="result"></div>
+
+                <div class="product-quantity">
+                    Kuantitas:
+                    <button id="decreaseButton">
+                        <i class="fa-solid fa-minus"></i>
+                    </button>
+
+                    <label id="countLabel">0</label>
+
+                    <button id="increaseButton">
+                        <i class="fa-solid fa-plus"></i>
+                    </button>
+
+                    <label class="product-avail">
+                        50 tersisa
+                    </label>
+                </div>
+
+                <div class="product-confirmation">
+                    <div class="cart">
+                        <a class="menu-link" asp-controller="ShoppingCart" asp-action="ShoppingCart">
+                            <button>
+                                <img src="/assets/shopping-cart-removebg-preview.png" alt="shopping-cart">
+                                Masukkan Keranjang
+                            </button>
+                        </a>
+                    </div>
+                    <div class="buy">
+                        <a asp-controller="Payment" asp-action="Payment"><button>Beli Sekarang</button></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="product-seller-information">
+            <div class="left-seller-container">
+                <div class="seller">
+                    <img src="/assets/mun_and_co-removebg-preview.png" alt="seller-logo">
+                </div>
+
+                <div class="seller-bio-container">
+                    <div class="seller-title">
+                        Mun & Co.
+                    </div>
+
+                    <div class="seller-online">
+                        Aktif 1 jam lalu
+                    </div>
+
+                    <div class="seller-chat">
+                        <a href="/html/Taniboen_Chat_Page.html"><button>Chat</button></a>
+                    </div>
+                </div>
+                <div class="line"></div>
+            </div>
+
+
+            <div class="seller-availability">
+                <div class="follower-rating-reply-percentage-product-join-container">
+                    <div class="seller-follower">
+                        Pengikut <span class="seller-text">2,2RB</span>
+                    </div>
+
+                    <div class="seller-rating">
+                        Penilaian <span class="seller-text">3RB</span>
+                    </div>
+                </div>
+
+                <div class="follower-rating-reply-percentage-product-join-container">
+                    <div class="seller-chat-reply">
+                        Waktu Chat <span class="seller-text">Dibalas estimasi dalam menit</span>
+                    </div>
+
+                    <div class="seller-percentage-reply">
+                        Persentase Chat Dibalas  <span class="seller-text">90%</span>
+                    </div>
+                </div>
+
+                <div class="follower-rating-reply-percentage-product-join-container">
+                    <div class="seller-product">
+                        Produk  <span class="seller-text">57</span>
+                    </div>
+
+                    <div class="seller-join">
+                        Bergabung Sejak <span class="seller-text">1 tahun yang lalu</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="product-spec">
+            <div class="product-spec-title">
+                Spesifikasi Produk
+            </div>
+
+            <div class="product-spec-inner">
+                <div class="product-stock">
+                    Stock <span class="seller-text">50</span>
+                </div>
+
+                <div class="product-from">
+                    Dikirim dari <span class="seller-text">Kota Bogor</span>
+                </div>
+
+                <div class="product-category">
+                    Kategori <span class="seller-text">Sayuran Segar</span>
+                </div>
+            </div>
+
+            <div class="product-desc-title">
+                Deskripsi Produk
+            </div>
+
+            <div class="start-desc">
+                Kami menyediakan berbagai macam sayur segar
+            </div>
+            <div class="main-desc">
+                *Pemesanan mulai jam 6 pagi sampai jam   3 sore akan dikirim dihari yg sama<br>
+                *Pemesanan di atas jam 3 sore akan dikirim besok<br>
+                *Toko buka setiap hari Senin - Minggu
+                *Jika ada komplain atau kekurangan silahkan menghubungi kami dengan menyertakan bukti foto atau video saat melakukan unboxing<br>
+                *Pengiriman instan same day akan dikirim menggunakan pengiriman kurir instan,pengiriman akan di mulai jam 8 pagi sesuai antrian orderan yg masuk sejak kemarin<br>
+            </div>
+            <div class="closing-desc">
+                Jika ada pertanyaan silahkan menghubungi kami terimakasih 🙏 tidak perlu kepasar lagi biar kami yang belanjakan dipasar
+            </div>
+
+        </div>
+
+
+        <div class="product-review-container">
+            <div class="product-review-wrapper">
+                <div class="product-review-title">
+                    Review Produk
+                </div>
+
+                <div class="rating-page">
+                    <div class="product-rating">
+                        4.0<span class="fa fa-star fa-3x checked"></span> <span class="rate-review">100 Penilaian - 8 Ulasan</span>
+                    </div>
+                    <div class="other-review">
+                        Menunjukan 5 dari 8 Ulasan
+                    </div>
+                </div>
+            </div>
+
+            <div class="customer-review-wrapper">
+                <div class="user">
+                    <div class="customer-profile">
+                        <i class="fa-solid fa-circle-user"></i>
+                    </div>
+
+                    <div class="rating">
+                        <div class="customer-name">
+                            Eun
+                        </div>
+                        <div class="customer-rating">
+                            <span class="fa fa-star fa-3x checked"></span>
+                            <span class="fa fa-star fa-3x checked"></span>
+                            <span class="fa fa-star fa-3x checked"></span>
+                            <span class="fa fa-star fa-3x checked"></span>
+                            <span class="fa fa-star fa-3x"></span>
+                            1 bulan yang lalu
+                        </div>
+
+                        <div class="customer-comment">
+                            Paketnya sdh tiba kemarin. Semua bahannya fresh, melimpah bahkan dikasih gratisan 🥦🥚🍅. Makasih seller. Smoga keep up krn akan terus belanja disini.
+                        </div>
+
+                        <div class="like">
+                            <button><i class="fa-regular fa-thumbs-up"></i></button>
+                            2
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="user">
+                    <div class="customer-profile">
+                        <i class="fa-solid fa-circle-user"></i>
+                    </div>
+
+                    <div class="rating">
+                        <div class="customer-name">
+                            Eun
+                        </div>
+                        <div class="customer-rating">
+                            <span class="fa fa-star fa-3x checked"></span>
+                            <span class="fa fa-star fa-3x checked"></span>
+                            <span class="fa fa-star fa-3x checked"></span>
+                            <span class="fa fa-star fa-3x checked"></span>
+                            <span class="fa fa-star fa-3x"></span>
+                            1 bulan yang lalu
+                        </div>
+
+                        <div class="customer-comment">
+                            Paketnya sdh tiba kemarin. Semua bahannya fresh, melimpah bahkan dikasih gratisan 🥦🥚🍅. Makasih seller. Smoga keep up krn akan terus belanja disini.
+                        </div>
+
+                        <div class="like">
+                            <button><i class="fa-regular fa-thumbs-up"></i></button>
+                            2
+                        </div>
+                    </div>
+                </div>
+
+                <div class="user">
+                    <div class="customer-profile">
+                        <i class="fa-solid fa-circle-user"></i>
+                    </div>
+
+                    <div class="rating">
+                        <div class="customer-name">
+                            Eun
+                        </div>
+                        <div class="customer-rating">
+                            <span class="fa fa-star fa-3x checked"></span>
+                            <span class="fa fa-star fa-3x checked"></span>
+                            <span class="fa fa-star fa-3x checked"></span>
+                            <span class="fa fa-star fa-3x checked"></span>
+                            <span class="fa fa-star fa-3x"></span>
+                            1 bulan yang lalu
+                        </div>
+
+                        <div class="customer-comment">
+                            Paketnya sdh tiba kemarin. Semua bahannya fresh, melimpah bahkan dikasih gratisan 🥦🥚🍅. Makasih seller. Smoga keep up krn akan terus belanja disini.
+                        </div>
+
+                        <div class="like">
+                            <button><i class="fa-regular fa-thumbs-up"></i></button>
+                            2
+                        </div>
+                    </div>
+                </div>
+
+                <div class="user">
+                    <div class="customer-profile">
+                        <i class="fa-solid fa-circle-user"></i>
+                    </div>
+
+                    <div class="rating">
+                        <div class="customer-name">
+                            Eun
+                        </div>
+                        <div class="customer-rating">
+                            <span class="fa fa-star fa-3x checked"></span>
+                            <span class="fa fa-star fa-3x checked"></span>
+                            <span class="fa fa-star fa-3x checked"></span>
+                            <span class="fa fa-star fa-3x checked"></span>
+                            <span class="fa fa-star fa-3x"></span>
+                            1 bulan yang lalu
+                        </div>
+
+                        <div class="customer-comment">
+                            Paketnya sdh tiba kemarin. Semua bahannya fresh, melimpah bahkan dikasih gratisan 🥦🥚🍅. Makasih seller. Smoga keep up krn akan terus belanja disini.
+                        </div>
+
+                        <div class="like">
+                            <button><i class="fa-regular fa-thumbs-up"></i></button>
+                            2
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="user">
+                    <div class="customer-profile">
+                        <i class="fa-solid fa-circle-user"></i>
+                    </div>
+
+                    <div class="rating">
+                        <div class="customer-name">
+                            Eun
+                        </div>
+                        <div class="customer-rating">
+                            <span class="fa fa-star fa-3x checked"></span>
+                            <span class="fa fa-star fa-3x checked"></span>
+                            <span class="fa fa-star fa-3x checked"></span>
+                            <span class="fa fa-star fa-3x checked"></span>
+                            <span class="fa fa-star fa-3x"></span>
+                            1 bulan yang lalu
+                        </div>
+
+                        <div class="customer-comment">
+                            Paketnya sdh tiba kemarin. Semua bahannya fresh, melimpah bahkan dikasih gratisan 🥦🥚🍅. Makasih seller. Smoga keep up krn akan terus belanja disini.
+                        </div>
+
+                        <div class="like">
+                            <button><i class="fa-regular fa-thumbs-up"></i></button>
+                            2
+                        </div>
+                    </div>
+                </div>
+
+                <div class="user">
+                    <div class="customer-profile">
+                        <i class="fa-solid fa-circle-user"></i>
+                    </div>
+
+                    <div class="rating">
+                        <div class="customer-name">
+                            Eun
+                        </div>
+                        <div class="customer-rating">
+                            <span class="fa fa-star fa-3x checked"></span>
+                            <span class="fa fa-star fa-3x checked"></span>
+                            <span class="fa fa-star fa-3x checked"></span>
+                            <span class="fa fa-star fa-3x checked"></span>
+                            <span class="fa fa-star fa-3x"></span>
+                            1 bulan yang lalu
+                        </div>
+
+                        <div class="customer-comment">
+                            Paketnya sdh tiba kemarin. Semua bahannya fresh, melimpah bahkan dikasih gratisan 🥦🥚🍅. Makasih seller. Smoga keep up krn akan terus belanja disini.
+                        </div>
+
+                        <div class="like">
+                            <button><i class="fa-regular fa-thumbs-up"></i></button>
+                            2
+                        </div>
+                    </div>
+                </div>
+
+                <div class="user">
+                    <div class="customer-profile">
+                        <i class="fa-solid fa-circle-user"></i>
+                    </div>
+
+                    <div class="rating">
+                        <div class="customer-name">
+                            Eun
+                        </div>
+                        <div class="customer-rating">
+                            <span class="fa fa-star fa-3x checked"></span>
+                            <span class="fa fa-star fa-3x checked"></span>
+                            <span class="fa fa-star fa-3x checked"></span>
+                            <span class="fa fa-star fa-3x checked"></span>
+                            <span class="fa fa-star fa-3x"></span>
+                            1 bulan yang lalu
+                        </div>
+
+                        <div class="customer-comment">
+                            Paketnya sdh tiba kemarin. Semua bahannya fresh, melimpah bahkan dikasih gratisan 🥦🥚🍅. Makasih seller. Smoga keep up krn akan terus belanja disini.
+                        </div>
+
+                        <div class="like">
+                            <button><i class="fa-regular fa-thumbs-up"></i></button>
+                            2
+                        </div>
+                    </div>
+                </div>
+
+                <div class="pages">
+                    <button><</button>
+                    <button>1</button>
+                    <button>2</button>
+                    <button>></button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <script src="/js/Taniboen_Navbar.js"></script>
+
+</body>
+</html>

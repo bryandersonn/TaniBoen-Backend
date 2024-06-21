@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins';
+  }
+
+.main{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.introduction-container{
+    width: 90%;
+    height: 280px;
+    margin: 20px;
+    background: url('/assets/profile-background.png')no-repeat;
+    background-position: center;
+    background-size: cover; 
+}
+
+.profile-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+    gap: 10px;
+    padding-left: 200px;
+    padding-right: 100px;
+}
+.profile-left{
+    display: flex;
+}
+.profile-right{
+    display: flex;
+    gap: 40px;
+}
+.profile-right .follow-and-chat{
+    border: 2px solid black;
+    padding: 5px 10px 5px 10px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.profile-right .follow-and-chat:hover{
+    opacity: .5;
+    transition: .15s;
+    cursor: pointer;
+}
+.profile-right .follow-and-chat:active{
+    opacity: .3;
+    transition: .15s;
+}
+.profile-right .follow-and-chat img{
+    width: 40px;
+    height: 40px;
+}
+
+.profile-container img{
+    width: 50px;
+    height: 50px;
+}
+
+.seller-detail{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.seller-detail .seller-details{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    justify-content: center;
+}
+.seller-detail .seller-details img{
+    width: 50px;
+    height: 50px;
+}
+.seller-detail .seller-details .detail-label{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.name-date-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* justify-content: center; */
+    width: 75%;
+    /* background-color: red; */
+    margin-bottom: 20px;
+}
+
+.box-nama input{
+    width: 200px;
+    height: 20px;
+}
+
+.form-group{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 20px;
+}
+
+.profile-choice{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.nama-panggilan{
+    font-weight: bold;
+}
+
+.history button{
+    background-color: #609B00;
+    color: white;
+    border-radius: 10px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.delete button{
+    background-color: #FF0000;
+    color: white;
+    border-radius: 10px;
+    height: 30px;
+    cursor: pointer;
+}
+.profile-input{
+    display: flex;
+    justify-content: center;
+    gap: 400px;
+}

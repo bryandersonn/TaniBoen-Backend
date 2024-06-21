@@ -1,0 +1,287 @@
+﻿@{
+    Layout = null;
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/css/Taniboen_Payment.css">
+    <link rel="stylesheet" href="/css/Taniboen_Navbar.css">
+    <link rel="stylesheet" href="/css/Taniboen_Footer.css">
+    <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <div class="navbar">
+        <div class="left-section">
+            <a href="Taniboen_Home_Page.html">
+                <img src="/assets/logo taniboen remove bg2.png" alt="logo taniboen">
+            </a>
+            TaniBoen
+        </div>
+        <div class="right-section">
+            <ul class="menu">
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Home" asp-action="Index">Home</a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Login" asp-action="UserLogin">Login</a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Register" asp-action="UserRegister">Sign up</a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="ShoppingCart" asp-action="ShoppingCart">
+                        <img src="/assets/shopping-cart-removebg-preview.png" alt="shopping-cart">
+                    </a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Profile" asp-action="Profile">
+                        <img src="/assets/profile.png" alt="profile">
+                    </a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Chat" asp-action="Chat">
+                        <img src="/assets/chat-page.png" alt="chat">
+                    </a>
+                </li>
+            </ul>
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="main">
+        <div class="title-container">
+            <div class="title">
+                Pembayaran
+            </div>
+        </div>
+
+        <div class="product-detail-container">
+            <div class="info-container">
+                <div class="detail-title">
+                    <span>Detail</span>
+                    <div class="middle">
+                        Sayur Kangkung Segar, Makassar
+                    </div>
+                </div>
+                <div class="detail-title">
+                    Harga Per Produk
+                    <div class="middle">
+                        12000
+                    </div>
+                </div>
+                <div class="detail-title">
+                    Jumlah
+                    <div class="middle">
+                        1
+                    </div>
+                </div>
+                <div class="detail-title">
+                    Subtotal Produk
+                    <div class="middle">
+                        1
+                    </div>
+                </div>
+            </div>
+
+            <div class="img-wrapper">
+                <div class="img-container">
+                    <div class="seller-images">
+                        <img src="/assets/brocoli.jpg">
+                        <img src="/assets/mun_and_co-removebg-preview.png">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="delivery-container">
+            <div class="delivery-title-container">
+                <div class="delivery-title">
+                    Pengiriman
+                </div>
+            </div>
+            <div class="deliver-container">
+                Charles Deo<br>
+                +6212345678901
+
+                <div class="address">
+                    Jl. Raya Kebon Jeruk No.27, RT.1/RW.9, Kebon Jeruk, Jakarta Barat, 11530
+                </div>
+            </div>
+
+            <div class="deliver-route-container">
+                <div class="deliver-type">
+                    Pengiriman
+                    <i class="fa-solid fa-truck"></i>
+                </div>
+
+                <div class="destination">
+                    Dikirim ke <span>Kota Jakarta Barat</span>
+                </div>
+
+                <div class="ongkir">
+                    Ongkos Kirim
+                    Reguler | Rp. 5000
+                </div>
+            </div>
+        </div>
+
+        <div class="payment-methods">
+            <div class="left-container">
+                <div class="payment-title">
+                    Metode Pembayaran
+                </div>
+                <div class="payment-container">
+                    <div class="payment-details">
+                        <img src="/assets/cod.png">
+                        <label>
+                            <input type="checkbox" name="payment" value="cod">
+                            Cash On Delivery
+                        </label>
+                    </div>
+                    <div class="payment-details">
+                        <img src="/assets/bca.png">
+                        <label>
+                            <input type="checkbox" name="payment" value="cod">
+                            BCA Virtual Account
+                        </label>
+                    </div>
+
+                    <div class="payment-details">
+                        <img src="/assets/mandiri.png">
+                        <label>
+                            <input type="checkbox" name="payment" value="cod">
+                            Bank Mandiri
+                        </label>
+                    </div>
+
+                    <div class="payment-details">
+                        <img src="/assets/bri.png">
+                        <label>
+                            <input type="checkbox" name="payment" value="cod">
+                            Bank BRI
+                        </label>
+                    </div>
+
+                    <div class="payment-details">
+                        <img src="/assets/gopay.png">
+                        <label>
+                            <input type="checkbox" name="payment" value="cod">
+                            Go-Pay
+                        </label>
+                    </div>
+
+                    <div class="payment-details">
+                        <img src="/assets/spay.png">
+                        <label>
+                            <input type="checkbox" name="payment" value="cod">
+                            ShopeePay
+                        </label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="right-container">
+                <div class="checkout-detail">
+                    Ringkasan Checkout
+                </div>
+                <div class="total-title">
+                    Total Belanja
+                </div>
+                <div class="total-cost-container">
+                    <div class="total-price">
+                        Total Harga :
+                    </div>
+                    <div class="price">
+                        Rp  12.000
+                    </div>
+                </div>
+
+                <div class="total-cost-container">
+                    <div class="total-price">
+                        Total Ongkos Pengiriman :
+                    </div>
+                    <div class="price">
+                        Rp 12.000
+                    </div>
+                </div>
+
+                <div class="total-title">
+                    Biaya Berbelanja
+                </div>
+                <div class="total-cost-container">
+                    <div class="total-price">
+                        Biaya Layanan Aplikasi :
+                    </div>
+                    <div class="price">
+                        Rp  500
+                    </div>
+                </div>
+
+                <div class="total-cost-container">
+                    <div class="total-price">
+                        Biaya Layanan Bayar :
+                    </div>
+                    <div class="price">
+                        Rp  1.500
+                    </div>
+                </div>
+
+                <div class="pay-container">
+                    <div class="final-cost">
+                        Harga Bayar : Rp 19.000
+                    </div>
+                </div>
+                <a class="menu-link" asp-controller="Home" asp-action="Index">
+                    <div class="button">
+                            <button>Bayar</button>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    <div class="footer">
+        <div class="footer-upper">
+            <div class="footer-upper-left">
+                <div class="footer-upper-left-title">
+                    About Taniboen
+                </div>
+                <div class="footer-upper-left-content">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit perspiciatis reiciendis tempore, eum corporis enim dolores modi doloremque quo asperiores architecto, alias incidunt saepe iste quidem, quisquam eaque porro fuga!
+                </div>
+            </div>
+            <div class="footer-upper-right">
+                <div class="footer-upper-right-title">
+                    Contacts
+                </div>
+                <div class="footer-upper-right-content">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime tempore nostrum ex sapiente molestias qui voluptate nemo expedita unde inventore, aspernatur quaerat! Quam, libero nobis corrupti sequi eligendi vitae numquam.
+                </div>
+            </div>
+        </div>
+        <div class="footer-lower">
+            Copyright &copy; 2024 [Taniboen] All Rights Reserved
+        </div>
+    </div>
+
+    <script src="/js/Taniboen_Navbar.js"></script>
+
+</body>
+</html>
+
+

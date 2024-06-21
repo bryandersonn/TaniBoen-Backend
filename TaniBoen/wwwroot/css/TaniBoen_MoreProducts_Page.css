@@ -1,0 +1,251 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Poppins';
+}
+
+body{
+    background: rgba(238, 242, 247, 1);
+}
+
+.headlinetop{
+    display: flex;
+    font-size: 25px;
+    font-weight: bold;
+    width: 86%;
+    margin-left: 130px;
+    margin-bottom: 50px;
+}
+
+.product-seller-information{
+    width: 75%;
+    height: 149px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    margin: 0 auto;
+    box-shadow: 0 0.25rem 1.2rem -1rem rgb(63, 61, 61);
+  }
+
+.left-seller-container{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.left-seller-container .line{
+    margin: 100px;
+}
+
+  .seller{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .seller img{
+    height: 150px;
+    width: 150px;
+  }
+
+  .seller-bio-container{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    justify-content: center;
+  }
+
+  .seller-title{
+    font-size: 16px;
+    font-weight: bolder;
+  }
+
+  .seller-online{
+    color: #696969;
+    font-size: 12px;
+  }
+
+  .seller-chat{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .seller-chat button{
+    background-color: #518300;
+    color: white;
+    width: 70px;
+    height: 36px;
+    border-radius: 8px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+  }
+
+  .seller-chat button:hover{
+    opacity: 80%;
+  }
+
+  
+.line{
+    width: 1px; 
+    height: 100px; 
+    background-color: grey; 
+  }
+
+.seller-availability{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 844px;
+    height: 68px;
+}
+
+
+.follower-rating-reply-percentage-product-join-container{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.seller-text{
+    color: #518300;
+    font-weight: bold;
+}
+
+.searchcontainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #fff;
+    width: 1200px;
+    height: 50px;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: solid 0.5px;
+    border-color: hsla(0, 0%, 0%, 0.25);
+    border-radius: 10px;
+    cursor: pointer;
+    text-decoration: none;
+    color: grey;
+}
+
+.searchicon img{
+    width: 30px;
+    height: 30px;
+}
+
+.searchicon{
+    margin: 10px;
+}
+
+.headline1{
+    display: flex;
+    font-size: 25px;
+    font-weight: bold;
+    width: 86%;
+    margin-top: 100px;
+}
+
+.information-vege{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    margin-bottom: 100px;
+}
+
+.information-row{
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    margin: 40px;
+    flex-wrap: wrap;
+}
+
+.information-row a{
+    text-decoration: none;
+}
+
+.obj{
+    border-radius: 10px;
+    padding-bottom: 20px;   
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 0.75rem 1.2rem -1rem hsla(0, 0%, 0%, 1);
+    gap: 20px;
+    background-color: white;
+    width: 350px;
+    height: 450px;
+}
+
+.obj label{
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    font-size: 18px ;
+}
+
+.topobj{
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    padding-left: 25px;
+    gap: 10px;
+}
+
+#product-name{
+    font-weight: bold;
+}
+
+#product-price{
+    font-weight: bolder;
+    color: rgba(81, 131, 0, 1);
+    font-size: 20px;
+}
+
+#product-location{
+    color: rgba(105, 105, 105, 1);
+    font-weight: bold;
+}
+
+#product-rating{
+    color: rgba(105, 105, 105, 1);
+    font-weight: bold;
+}
+
+#product-sold{
+    color: rgba(105, 105, 105, 1);
+    font-weight: bold;
+}
+
+.bottomobj{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 150px;
+}
+
+.leftbottom img{
+    width: 20px;
+    height: 20px;
+}
+
+.vege-img{
+    height: 350px;
+    width: 350px;
+    box-shadow: 0 0 1rem -0.1rem hsla(0, 0%, 0%, 0.1);
+    border-radius: 10px 10px 0 0;
+}
+
+/* @media only screen and (max-width: 1500px) {
+    .information-row{
+        display: flex;
+        flex-direction: column;
+    }
+  } */

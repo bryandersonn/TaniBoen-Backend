@@ -1,0 +1,205 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="/assets/logo taniboen remove bg2.png">
+    <link rel="stylesheet" href="/css/Taniboen_Navbar.css">
+    <link rel="stylesheet" href="/css/Taniboen_Shopping_Cart.css">
+    <link rel="stylesheet" href="/css/Taniboen_Footer.css">
+    <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
+    <title>Shopping Cart</title>
+</head>
+<body>
+
+    <div class="navbar">
+        <div class="left-section">
+            <a href="Taniboen_Home_Page.html">
+                <img src="/assets/logo taniboen remove bg2.png" alt="logo taniboen">
+            </a>
+            TaniBoen
+        </div>
+        <div class="right-section">
+            <ul class="menu">
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Home" asp-action="Index">Home</a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Login" asp-action="UserLogin">Login</a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Register" asp-action="UserRegister">Sign up</a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="ShoppingCart" asp-action="ShoppingCart">
+                        <img src="/assets/shopping-cart-removebg-preview.png" alt="shopping-cart">
+                    </a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Profile" asp-action="Profile">
+                        <img src="/assets/profile.png" alt="profile">
+                    </a>
+                </li>
+                <li class="menu-choice">
+                    <a class="menu-link" asp-controller="Chat" asp-action="Chat">
+                        <img src="/assets/chat-page.png" alt="chat">
+                    </a>
+                </li>
+            </ul>
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="main">
+        <section>
+            <div class="shopping-cart-title">
+                Shopping Cart
+            </div>
+            <div class="shopping-cart-content">
+                <table>
+                    <tr>
+                        <th>Nama Produk</th>
+                        <th>Gambar</th>
+                        <th>Nama Toko</th>
+                        <th>Kuantitas</th>
+                        <th>Harga</th>
+                        <th>Aksi</th>
+                    </tr>
+                    <tr>
+                        <td>Brokoli</td>
+                        <td><img src="/assets/brocoli.jpg" alt="brocolli"></td>
+                        <td>Mun & Co.</td>
+                        <td>
+                            <div class="quantity-counter">
+                                <div class="plusminus">
+                                    <button>-</button>
+                                </div>
+                                <input type="text" placeholder="0" value="0">
+                                <div class="plusminus">
+                                    <button>+</button>
+                                </div>
+                            </div>
+                        </td>
+                        <td>$66</td>
+                        <td>
+                            <div class="action-button">
+                                <button>Edit</button>
+                                <button>Delete</button>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Brokoli</td>
+                        <td><img src="/assets/brocoli.jpg" alt="brocolli"></td>
+                        <td>Mun & Co.</td>
+                        <td>
+                            <div class="quantity-counter">
+                                <div class="plusminus">
+                                    <button>-</button>
+                                </div>
+                                <input type="text" placeholder="0" value="0">
+                                <div class="plusminus">
+                                    <button>+</button>
+                                </div>
+                            </div>
+                        </td>
+                        <td>$66</td>
+                        <td>
+                            <div class="action-button">
+                                <button>Edit</button>
+                                <button>Delete</button>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Brokoli</td>
+                        <td><img src="/assets/brocoli.jpg" alt="brocolli"></td>
+                        <td>Mun & Co.</td>
+                        <td>
+                            <div class="quantity-counter">
+                                <div class="plusminus">
+                                    <button>-</button>
+                                </div>
+                                <input type="text" placeholder="0" value="0">
+                                <div class="plusminus">
+                                    <button>+</button>
+                                </div>
+                            </div>
+                        </td>
+                        <td>$66</td>
+                        <td>
+                            <div class="action-button">
+                                <button>Edit</button>
+                                <button>Delete</button>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Brokoli</td>
+                        <td><img src="/assets/brocoli.jpg" alt="brocolli"></td>
+                        <td>Mun & Co.</td>
+                        <td>
+                            <div class="quantity-counter">
+                                <div class="plusminus">
+                                    <button>-</button>
+                                </div>
+                                <input type="text" placeholder="0" value="0">
+                                <div class="plusminus">
+                                    <button>+</button>
+                                </div>
+                            </div>
+                        </td>
+                        <td>$66</td>
+                        <td>
+                            <div class="action-button">
+                                <button>Edit</button>
+                                <button>Delete</button>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div class="checkout">
+                <a asp-controller="Payment" asp-action="Payment">
+                    <button>Checkout</button>
+                </a>
+            </div>
+        </section>
+    </div>
+
+    <div class="footer">
+        <div class="footer-upper">
+            <div class="footer-upper-left">
+                <div class="footer-upper-left-title">
+                    About Taniboen
+                </div>
+                <div class="footer-upper-left-content">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit perspiciatis reiciendis tempore, eum corporis enim dolores modi doloremque quo asperiores architecto, alias incidunt saepe iste quidem, quisquam eaque porro fuga!
+                </div>
+            </div>
+            <div class="footer-upper-right">
+                <div class="footer-upper-right-title">
+                    Contacts
+                </div>
+                <div class="footer-upper-right-content">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime tempore nostrum ex sapiente molestias qui voluptate nemo expedita unde inventore, aspernatur quaerat! Quam, libero nobis corrupti sequi eligendi vitae numquam.
+                </div>
+            </div>
+        </div>
+        <div class="footer-lower">
+            Copyright &copy; 2024 [Taniboen] All Rights Reserved
+        </div>
+    </div>
+
+    <script src="/js/Taniboen_Navbar.js"></script>
+
+</body>
+</html>

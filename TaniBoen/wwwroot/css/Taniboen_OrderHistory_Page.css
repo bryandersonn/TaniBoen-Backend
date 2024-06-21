@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins';
+}
+.main{
+    background: rgba(238, 242, 247, 1);
+    background-size: cover;
+    font-family: sans-serif;
+}
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 150vh;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.title{
+    font-size: 30px;
+    font-weight: bolder;
+    color: rgba(81, 131, 0, 1);
+    margin-bottom: 25px;
+}
+
+.itemname{
+    padding-right: 30px;
+}
+
+
+.orderitem{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    padding: 10px;
+    gap: 50px;
+    box-shadow: 0 0.25rem 1.2rem -1rem rgb(63, 61, 61);
+}
+
+.orderdetail{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px;
+}
+
+.status{
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    align-items: center;
+    padding-right: 30px;
+}
+
+#logo{
+    width: 250px;
+    height: 250px;
+}
+
+#check{
+    width: 18px;
+    height: 15px;
+}
+
+#detailpesanan {
+    margin-right: 70px;
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+    background-color: rgba(81, 131, 0, 1);
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#detailpesanan:hover{
+    opacity: 80%;
+    transition: all 0.25s ease;
+}

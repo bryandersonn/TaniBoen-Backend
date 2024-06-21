@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins';
+  }
+
+.main{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.introduction-container{
+    width: 90%;
+    height: 280px;
+    margin: 20px;
+    background: url('/assets/profile-background.png')no-repeat;
+    background-position: center;
+    background-size: cover; 
+}
+
+
+.profile-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    margin: 20px;
+    gap: 10px;
+    /* background-color: red; */
+}
+
+.profile-container img{
+    width: 50px;
+    height: 50px;
+}
+
+.name-date-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* justify-content: center; */
+    width: 75%;
+    /* background-color: red; */
+    margin-bottom: 20px;
+}
+
+.box-nama input{
+    width: 200px;
+    height: 20px;
+}
+
+.form-group{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 20px;
+}
+
+.profile-choice{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.nama-panggilan{
+    font-weight: bold;
+}
+
+.history button{
+    background-color: #609B00;
+    color: white;
+    border-radius: 10px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.delete button{
+    background-color: #FF0000;
+    color: white;
+    border-radius: 10px;
+    height: 30px;
+    cursor: pointer;
+}
+
+

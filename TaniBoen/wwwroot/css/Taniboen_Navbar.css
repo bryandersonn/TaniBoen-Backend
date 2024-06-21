@@ -1,0 +1,133 @@
+.navbar{
+    background-color: rgba(81, 131, 0, 1);
+    justify-content: space-between;
+    display: flex;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: sticky;
+    top: 0;
+    height: 50px;
+    z-index: 999;
+    font-family: 'Poppins';
+}
+
+li{
+    list-style: none;
+}
+
+.navbar .left-section{
+    display: flex;
+    font-size: 25px;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.navbar .left-section img{
+    height: 50px;
+}
+
+.navbar .right-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar .right-section ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+
+.menu-choice{
+    padding: 20px;
+}
+.menu-choice img{
+    width: 40px;
+}
+
+.navbar a{
+    color: white;
+    text-decoration: none;
+}
+
+.navbar a:hover{
+    opacity: .6;
+    transition: .15s;
+}
+
+.navbar a:active{
+    opacity: .4;
+    transition: .15s;
+}
+
+.hamburger{
+    display: none;
+    cursor: pointer;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 3px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.hamburger:hover{
+    opacity: 0.7;
+    transition: 0.2s;
+    cursor: pointer;
+}
+.bar{
+    display: block;
+    width: 25px;
+    height: 3px;
+    border-radius: 5px;
+    margin: 5px auto;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    background-color: black;
+}
+
+@media screen and (max-width: 600px){
+    .hamburger{
+        display: block;
+    }
+    .hamburger.active .bar:nth-child(1){
+        transform: translateY(8px) rotate(45deg);
+    }
+    .hamburger.active .bar:nth-child(2){
+        opacity: 0;
+    }
+    .hamburger.active .bar:nth-child(3){
+        transform: translateY(-8px) rotate(-45deg);
+    }
+    .menu{
+        position: fixed;
+        right: -110%;  
+        top: 60px;
+        flex-direction: column;
+        width: 20%;
+        text-align: center;
+        justify-content: start;
+        transition: 0.3s;
+        padding-left: 0;
+        padding-top: 10px;
+    }
+    .menu-choice{
+        background-color: white;
+        padding: 10px;
+        width: 70%;
+    }
+    .menu.active{
+        right: -1.2%;
+    }
+    .navbar a{
+        color: black;
+        text-align: center;
+    }
+    .menu-choice img{
+        padding: 0;
+    }
+}

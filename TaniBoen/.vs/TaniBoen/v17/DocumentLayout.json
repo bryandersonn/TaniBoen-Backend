@@ -1,0 +1,541 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|c:\\users\\queen\\desktop\\binus\\learning management system\\semester 4\\software engineering lec\\taniboen-backend\\taniboen\\views\\moreproduct\\moreproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|solutionrelative:views\\moreproduct\\moreproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|c:\\users\\queen\\desktop\\binus\\learning management system\\semester 4\\software engineering lec\\taniboen-backend\\taniboen\\views\\payment\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|solutionrelative:views\\payment\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|c:\\users\\queen\\desktop\\binus\\learning management system\\semester 4\\software engineering lec\\taniboen-backend\\taniboen\\views\\login\\userlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|solutionrelative:views\\login\\userlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|c:\\users\\queen\\desktop\\binus\\learning management system\\semester 4\\software engineering lec\\taniboen-backend\\taniboen\\views\\shoppingcart\\shoppingcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|solutionrelative:views\\shoppingcart\\shoppingcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|c:\\users\\queen\\desktop\\binus\\learning management system\\semester 4\\software engineering lec\\taniboen-backend\\taniboen\\views\\product\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|solutionrelative:views\\product\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|c:\\users\\queen\\desktop\\binus\\learning management system\\semester 4\\software engineering lec\\taniboen-backend\\taniboen\\views\\register\\userregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|solutionrelative:views\\register\\userregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|c:\\users\\queen\\desktop\\binus\\learning management system\\semester 4\\software engineering lec\\taniboen-backend\\taniboen\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|c:\\users\\queen\\desktop\\binus\\learning management system\\semester 4\\software engineering lec\\taniboen-backend\\taniboen\\controllers\\orderhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|solutionrelative:controllers\\orderhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|c:\\users\\queen\\desktop\\binus\\learning management system\\semester 4\\software engineering lec\\taniboen-backend\\taniboen\\views\\orderhistory\\orderhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|solutionrelative:views\\orderhistory\\orderhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|c:\\users\\queen\\desktop\\binus\\learning management system\\semester 4\\software engineering lec\\taniboen-backend\\taniboen\\views\\profile\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|solutionrelative:views\\profile\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|c:\\users\\queen\\desktop\\binus\\learning management system\\semester 4\\software engineering lec\\taniboen-backend\\taniboen\\controllers\\moreproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|solutionrelative:controllers\\moreproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|c:\\users\\queen\\desktop\\binus\\learning management system\\semester 4\\software engineering lec\\taniboen-backend\\taniboen\\views\\orderhistory\\orderhistory.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|solutionrelative:views\\orderhistory\\orderhistory.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|c:\\users\\queen\\desktop\\binus\\learning management system\\semester 4\\software engineering lec\\taniboen-backend\\taniboen\\views\\chat\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|solutionrelative:views\\chat\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|c:\\users\\queen\\desktop\\binus\\learning management system\\semester 4\\software engineering lec\\taniboen-backend\\taniboen\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|solutionrelative:controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|c:\\users\\queen\\desktop\\binus\\learning management system\\semester 4\\software engineering lec\\taniboen-backend\\taniboen\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|c:\\users\\queen\\desktop\\binus\\learning management system\\semester 4\\software engineering lec\\taniboen-backend\\taniboen\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|solutionrelative:controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|c:\\users\\queen\\desktop\\binus\\learning management system\\semester 4\\software engineering lec\\taniboen-backend\\taniboen\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|solutionrelative:controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|c:\\users\\queen\\desktop\\binus\\learning management system\\semester 4\\software engineering lec\\taniboen-backend\\taniboen\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|solutionrelative:controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|c:\\users\\queen\\desktop\\binus\\learning management system\\semester 4\\software engineering lec\\taniboen-backend\\taniboen\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|c:\\users\\queen\\desktop\\binus\\learning management system\\semester 4\\software engineering lec\\taniboen-backend\\taniboen\\views\\dashboard\\dash.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|solutionrelative:views\\dashboard\\dash.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|c:\\users\\queen\\desktop\\binus\\learning management system\\semester 4\\software engineering lec\\taniboen-backend\\taniboen\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|c:\\users\\queen\\desktop\\binus\\learning management system\\semester 4\\software engineering lec\\taniboen-backend\\taniboen\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|c:\\users\\queen\\desktop\\binus\\learning management system\\semester 4\\software engineering lec\\taniboen-backend\\taniboen\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|solutionrelative:controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|c:\\users\\queen\\desktop\\binus\\learning management system\\semester 4\\software engineering lec\\taniboen-backend\\taniboen\\views\\aboutus\\aboutwearhouse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|solutionrelative:views\\aboutus\\aboutwearhouse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|c:\\users\\queen\\desktop\\binus\\learning management system\\semester 4\\software engineering lec\\taniboen-backend\\taniboen\\views\\categories\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|solutionrelative:views\\categories\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|c:\\users\\queen\\desktop\\binus\\learning management system\\semester 4\\software engineering lec\\taniboen-backend\\taniboen\\views\\categories\\deletecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|solutionrelative:views\\categories\\deletecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|c:\\users\\queen\\desktop\\binus\\learning management system\\semester 4\\software engineering lec\\taniboen-backend\\taniboen\\views\\categories\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|solutionrelative:views\\categories\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|c:\\users\\queen\\desktop\\binus\\learning management system\\semester 4\\software engineering lec\\taniboen-backend\\taniboen\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|c:\\users\\queen\\desktop\\binus\\learning management system\\semester 4\\software engineering lec\\taniboen-backend\\taniboen\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|c:\\users\\queen\\desktop\\binus\\learning management system\\semester 4\\software engineering lec\\taniboen-backend\\taniboen\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|c:\\users\\queen\\desktop\\binus\\learning management system\\semester 4\\software engineering lec\\taniboen-backend\\taniboen\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|solutionrelative:controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|c:\\users\\queen\\desktop\\binus\\learning management system\\semester 4\\software engineering lec\\taniboen-backend\\taniboen\\data\\taniboendata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E9D0D1-C516-48A1-9575-8BCE1BAB48F0}|TaniBoen.csproj|solutionrelative:data\\taniboendata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderHistoryController.cs",
+              "DocumentMoniker": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Controllers\\OrderHistoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderHistoryController.cs",
+              "ToolTip": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Controllers\\OrderHistoryController.cs",
+              "RelativeToolTip": "Controllers\\OrderHistoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:03:46.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderHistory.cshtml",
+              "DocumentMoniker": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\OrderHistory\\OrderHistory.cshtml",
+              "RelativeDocumentMoniker": "Views\\OrderHistory\\OrderHistory.cshtml",
+              "ToolTip": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\OrderHistory\\OrderHistory.cshtml",
+              "RelativeToolTip": "Views\\OrderHistory\\OrderHistory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T08:03:25.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderHistory.cshtml",
+              "DocumentMoniker": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\OrderHistory\\OrderHistory.cshtml",
+              "RelativeDocumentMoniker": "Views\\OrderHistory\\OrderHistory.cshtml",
+              "ToolTip": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\OrderHistory\\OrderHistory.cshtml",
+              "RelativeToolTip": "Views\\OrderHistory\\OrderHistory.cshtml",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAJcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T08:02:54.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MoreProductController.cs",
+              "DocumentMoniker": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Controllers\\MoreProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoreProductController.cs",
+              "ToolTip": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Controllers\\MoreProductController.cs",
+              "RelativeToolTip": "Controllers\\MoreProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:51:40.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoreProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\MoreProduct\\MoreProduct.cshtml",
+              "RelativeDocumentMoniker": "Views\\MoreProduct\\MoreProduct.cshtml",
+              "ToolTip": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\MoreProduct\\MoreProduct.cshtml",
+              "RelativeToolTip": "Views\\MoreProduct\\MoreProduct.cshtml",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAIkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T07:50:52.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:44:54.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Payment.cshtml",
+              "DocumentMoniker": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\Payment\\Payment.cshtml",
+              "RelativeDocumentMoniker": "Views\\Payment\\Payment.cshtml",
+              "ToolTip": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\Payment\\Payment.cshtml",
+              "RelativeToolTip": "Views\\Payment\\Payment.cshtml",
+              "ViewState": "AQIAAOMAAAAAAAAAAAAQwPcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T07:44:14.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:35:54.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cshtml",
+              "DocumentMoniker": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\Product\\Product.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Product.cshtml",
+              "ToolTip": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\Product\\Product.cshtml",
+              "RelativeToolTip": "Views\\Product\\Product.cshtml",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAAwJIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T07:31:31.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "Controllers\\ProfileController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:19:30.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\Profile\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Views\\Profile\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\Profile\\Profile.cshtml",
+              "RelativeToolTip": "Views\\Profile\\Profile.cshtml",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAAwIgAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T07:18:35.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShoppingCartController.cs",
+              "ToolTip": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "Controllers\\ShoppingCartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:13:25.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShoppingCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\ShoppingCart\\ShoppingCart.cshtml",
+              "RelativeDocumentMoniker": "Views\\ShoppingCart\\ShoppingCart.cshtml",
+              "ToolTip": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\ShoppingCart\\ShoppingCart.cshtml",
+              "RelativeToolTip": "Views\\ShoppingCart\\ShoppingCart.cshtml",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAAwK0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T07:11:59.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "Controllers\\ChatController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:09:15.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Chat.cshtml",
+              "DocumentMoniker": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\Chat\\Chat.cshtml",
+              "RelativeDocumentMoniker": "Views\\Chat\\Chat.cshtml",
+              "ToolTip": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\Chat\\Chat.cshtml",
+              "RelativeToolTip": "Views\\Chat\\Chat.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T07:08:32.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EditCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\Categories\\EditCategory.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\EditCategory.cshtml",
+              "ToolTip": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\Categories\\EditCategory.cshtml",
+              "RelativeToolTip": "Views\\Categories\\EditCategory.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABsAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T06:57:19.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DeleteCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\Categories\\DeleteCategory.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\DeleteCategory.cshtml",
+              "ToolTip": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\Categories\\DeleteCategory.cshtml",
+              "RelativeToolTip": "Views\\Categories\\DeleteCategory.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAB0AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T06:57:18.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Dash.cshtml",
+              "DocumentMoniker": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\Dashboard\\Dash.cshtml",
+              "RelativeDocumentMoniker": "Views\\Dashboard\\Dash.cshtml",
+              "ToolTip": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\Dashboard\\Dash.cshtml",
+              "RelativeToolTip": "Views\\Dashboard\\Dash.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAuwEEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T06:57:16.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\Categories\\AddCategory.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\AddCategory.cshtml",
+              "ToolTip": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\Categories\\AddCategory.cshtml",
+              "RelativeToolTip": "Views\\Categories\\AddCategory.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABsAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T06:57:14.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AboutWearHouse.cshtml",
+              "DocumentMoniker": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\AboutUs\\AboutWearHouse.cshtml",
+              "RelativeDocumentMoniker": "Views\\AboutUs\\AboutWearHouse.cshtml",
+              "ToolTip": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\AboutUs\\AboutWearHouse.cshtml",
+              "RelativeToolTip": "Views\\AboutUs\\AboutWearHouse.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAtwEUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T06:57:07.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AboutUsController.cs",
+              "DocumentMoniker": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Controllers\\AboutUsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AboutUsController.cs",
+              "ToolTip": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Controllers\\AboutUsController.cs",
+              "RelativeToolTip": "Controllers\\AboutUsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T06:57:01.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T06:54:05.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T06:54:03.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T06:53:21.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\Login\\UserLogin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login\\UserLogin.cshtml",
+              "ToolTip": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\Login\\UserLogin.cshtml",
+              "RelativeToolTip": "Views\\Login\\UserLogin.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T06:28:45.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T06:41:59.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TaniBoenData.cs",
+              "DocumentMoniker": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Data\\TaniBoenData.cs",
+              "RelativeDocumentMoniker": "Data\\TaniBoenData.cs",
+              "ToolTip": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Data\\TaniBoenData.cs",
+              "RelativeToolTip": "Data\\TaniBoenData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T06:37:56.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T06:37:02.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "Controllers\\RegisterController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T06:36:02.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRegister.cshtml",
+              "DocumentMoniker": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\Register\\UserRegister.cshtml",
+              "RelativeDocumentMoniker": "Views\\Register\\UserRegister.cshtml",
+              "ToolTip": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\Register\\UserRegister.cshtml",
+              "RelativeToolTip": "Views\\Register\\UserRegister.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T06:33:47.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T06:28:39.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T06:28:36.545Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
