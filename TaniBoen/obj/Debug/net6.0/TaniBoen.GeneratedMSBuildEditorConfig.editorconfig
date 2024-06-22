@@ -9,95 +9,93 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TaniBoen
 build_property.RootNamespace = TaniBoen
-build_property.ProjectDir = C:\Users\queen\Desktop\Binus\Learning Management System\Semester 4\Software Engineering LEC\TaniBoen-Backend\TaniBoen\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = D:\BINUS\Semester 4\SE\TaniBoen Final\TaniBoen-Backend\TaniBoen\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\queen\Desktop\Binus\Learning Management System\Semester 4\Software Engineering LEC\TaniBoen-Backend\TaniBoen
+build_property.MSBuildProjectDirectory = D:\BINUS\Semester 4\SE\TaniBoen Final\TaniBoen-Backend\TaniBoen
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/queen/Desktop/Binus/Learning Management System/Semester 4/Software Engineering LEC/TaniBoen-Backend/TaniBoen/Views/Categories/AddCategory.cshtml]
+[D:/BINUS/Semester 4/SE/TaniBoen Final/TaniBoen-Backend/TaniBoen/Views/Categories/AddCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xBZGRDYXRlZ29yeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/queen/Desktop/Binus/Learning Management System/Semester 4/Software Engineering LEC/TaniBoen-Backend/TaniBoen/Views/Categories/EditCategory.cshtml]
+[D:/BINUS/Semester 4/SE/TaniBoen Final/TaniBoen-Backend/TaniBoen/Views/Categories/EditCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0Q2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/queen/Desktop/Binus/Learning Management System/Semester 4/Software Engineering LEC/TaniBoen-Backend/TaniBoen/Views/Categories/Index.cshtml]
+[D:/BINUS/Semester 4/SE/TaniBoen Final/TaniBoen-Backend/TaniBoen/Views/Categories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/queen/Desktop/Binus/Learning Management System/Semester 4/Software Engineering LEC/TaniBoen-Backend/TaniBoen/Views/Chat/Chat.cshtml]
+[D:/BINUS/Semester 4/SE/TaniBoen Final/TaniBoen-Backend/TaniBoen/Views/Chat/Chat.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhdFxDaGF0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/queen/Desktop/Binus/Learning Management System/Semester 4/Software Engineering LEC/TaniBoen-Backend/TaniBoen/Views/DetailPayment/DetailPayment.cshtml]
+[D:/BINUS/Semester 4/SE/TaniBoen Final/TaniBoen-Backend/TaniBoen/Views/DetailPayment/DetailPayment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWlsUGF5bWVudFxEZXRhaWxQYXltZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/queen/Desktop/Binus/Learning Management System/Semester 4/Software Engineering LEC/TaniBoen-Backend/TaniBoen/Views/HomeGuest/IndexGuest.cshtml]
+[D:/BINUS/Semester 4/SE/TaniBoen Final/TaniBoen-Backend/TaniBoen/Views/HomeGuest/IndexGuest.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZUd1ZXN0XEluZGV4R3Vlc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/queen/Desktop/Binus/Learning Management System/Semester 4/Software Engineering LEC/TaniBoen-Backend/TaniBoen/Views/Home/Index.cshtml]
+[D:/BINUS/Semester 4/SE/TaniBoen Final/TaniBoen-Backend/TaniBoen/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/queen/Desktop/Binus/Learning Management System/Semester 4/Software Engineering LEC/TaniBoen-Backend/TaniBoen/Views/Home/Privacy.cshtml]
+[D:/BINUS/Semester 4/SE/TaniBoen Final/TaniBoen-Backend/TaniBoen/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/queen/Desktop/Binus/Learning Management System/Semester 4/Software Engineering LEC/TaniBoen-Backend/TaniBoen/Views/Login/UserLogin.cshtml]
+[D:/BINUS/Semester 4/SE/TaniBoen Final/TaniBoen-Backend/TaniBoen/Views/Login/UserLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cVXNlckxvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/queen/Desktop/Binus/Learning Management System/Semester 4/Software Engineering LEC/TaniBoen-Backend/TaniBoen/Views/MoreProduct/MoreProduct.cshtml]
+[D:/BINUS/Semester 4/SE/TaniBoen Final/TaniBoen-Backend/TaniBoen/Views/MoreProduct/MoreProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9yZVByb2R1Y3RcTW9yZVByb2R1Y3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/queen/Desktop/Binus/Learning Management System/Semester 4/Software Engineering LEC/TaniBoen-Backend/TaniBoen/Views/OrderHistory/OrderHistory.cshtml]
+[D:/BINUS/Semester 4/SE/TaniBoen Final/TaniBoen-Backend/TaniBoen/Views/OrderHistory/OrderHistory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJIaXN0b3J5XE9yZGVySGlzdG9yeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/queen/Desktop/Binus/Learning Management System/Semester 4/Software Engineering LEC/TaniBoen-Backend/TaniBoen/Views/Payment/Payment.cshtml]
+[D:/BINUS/Semester 4/SE/TaniBoen Final/TaniBoen-Backend/TaniBoen/Views/Payment/Payment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudFxQYXltZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/queen/Desktop/Binus/Learning Management System/Semester 4/Software Engineering LEC/TaniBoen-Backend/TaniBoen/Views/Product/Product.cshtml]
+[D:/BINUS/Semester 4/SE/TaniBoen Final/TaniBoen-Backend/TaniBoen/Views/Product/Product.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/queen/Desktop/Binus/Learning Management System/Semester 4/Software Engineering LEC/TaniBoen-Backend/TaniBoen/Views/Profile/Profile.cshtml]
+[D:/BINUS/Semester 4/SE/TaniBoen Final/TaniBoen-Backend/TaniBoen/Views/Profile/Profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxQcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/queen/Desktop/Binus/Learning Management System/Semester 4/Software Engineering LEC/TaniBoen-Backend/TaniBoen/Views/Register/UserRegister.cshtml]
+[D:/BINUS/Semester 4/SE/TaniBoen Final/TaniBoen-Backend/TaniBoen/Views/Register/UserRegister.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcVXNlclJlZ2lzdGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/queen/Desktop/Binus/Learning Management System/Semester 4/Software Engineering LEC/TaniBoen-Backend/TaniBoen/Views/Shared/Error.cshtml]
+[D:/BINUS/Semester 4/SE/TaniBoen Final/TaniBoen-Backend/TaniBoen/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/queen/Desktop/Binus/Learning Management System/Semester 4/Software Engineering LEC/TaniBoen-Backend/TaniBoen/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/BINUS/Semester 4/SE/TaniBoen Final/TaniBoen-Backend/TaniBoen/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/queen/Desktop/Binus/Learning Management System/Semester 4/Software Engineering LEC/TaniBoen-Backend/TaniBoen/Views/ShoppingCart/Delete.cshtml]
+[D:/BINUS/Semester 4/SE/TaniBoen Final/TaniBoen-Backend/TaniBoen/Views/ShoppingCart/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/queen/Desktop/Binus/Learning Management System/Semester 4/Software Engineering LEC/TaniBoen-Backend/TaniBoen/Views/ShoppingCart/ShoppingCart.cshtml]
+[D:/BINUS/Semester 4/SE/TaniBoen Final/TaniBoen-Backend/TaniBoen/Views/ShoppingCart/ShoppingCart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XFNob3BwaW5nQ2FydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/queen/Desktop/Binus/Learning Management System/Semester 4/Software Engineering LEC/TaniBoen-Backend/TaniBoen/Views/_ViewImports.cshtml]
+[D:/BINUS/Semester 4/SE/TaniBoen Final/TaniBoen-Backend/TaniBoen/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/queen/Desktop/Binus/Learning Management System/Semester 4/Software Engineering LEC/TaniBoen-Backend/TaniBoen/Views/_ViewStart.cshtml]
+[D:/BINUS/Semester 4/SE/TaniBoen Final/TaniBoen-Backend/TaniBoen/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

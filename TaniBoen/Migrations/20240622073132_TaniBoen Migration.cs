@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace TaniBoen.Migrations
 {
     /// <inheritdoc />
-    public partial class TaniboenMigration : Migration
+    public partial class TaniBoenMigration : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

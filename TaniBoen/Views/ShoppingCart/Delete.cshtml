@@ -10,16 +10,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WearHouse_Category</title>
+    <title>TaniBoen</title>
     <link rel="stylesheet" href="/css/Taniboen_Navbar.css">
     <link rel="stylesheet" href="/css/Taniboen_Shopping_Cart.css">
     <link rel="stylesheet" href="/css/Taniboen_Footer.css">
+    <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
 </head>
 <body>
 
     <div class="navbar">
         <div class="left-section">
-            <a href="Taniboen_Home_Page.html">
+            <a asp-controller="Home" asp-action="Index">
                 <img src="/assets/logo taniboen remove bg2.png" alt="logo taniboen">
             </a>
             TaniBoen
@@ -30,10 +31,7 @@
                     <a class="menu-link" asp-controller="Home" asp-action="Index">Home</a>
                 </li>
                 <li class="menu-choice">
-                    <a class="menu-link" asp-controller="Login" asp-action="UserLogin">Login</a>
-                </li>
-                <li class="menu-choice">
-                    <a class="menu-link" asp-controller="Register" asp-action="UserRegister">Sign up</a>
+                    <a class="menu-link" asp-controller="Login" asp-action="UserLogin">Logout</a>
                 </li>
                 <li class="menu-choice">
                     <a class="menu-link" asp-controller="ShoppingCart" asp-action="ShoppingCart">

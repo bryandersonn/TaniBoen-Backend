@@ -12,8 +12,8 @@ using TaniBoen.Data;
 namespace TaniBoen.Migrations
 {
     [DbContext(typeof(TaniBoenData))]
-    [Migration("20240622061725_TaniboenMigration")]
-    partial class TaniboenMigration
+    [Migration("20240622073132_TaniBoen Migration")]
+    partial class TaniBoenMigration
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

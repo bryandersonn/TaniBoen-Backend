@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaniBoen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c64cc36ef0f02d684fe56847899f4d417fc4daa8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaniBoen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaniBoen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
