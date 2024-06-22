@@ -28,7 +28,8 @@ namespace TaniBoen.Controllers
                 Id = Guid.NewGuid(),
                 Name = AddUserRequest.Name,
                 Email = AddUserRequest.Email,
-                Password = AddUserRequest.Password
+                Password = AddUserRequest.Password,
+                PhoneNumber = AddUserRequest.PhoneNumber
             };
 
             await taniBoenData.Register.AddAsync(user);

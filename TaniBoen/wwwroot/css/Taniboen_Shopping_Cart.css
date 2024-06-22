@@ -105,3 +105,8 @@ section{
     font-size: 18px;
     font-weight: bold;
 }
+
+.action a{
+    color: white;
+    text-decoration: none;
+}

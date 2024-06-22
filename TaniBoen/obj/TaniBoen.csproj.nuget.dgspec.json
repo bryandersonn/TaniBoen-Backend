@@ -1,28 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BINUS\\Semester 4\\SE\\TaniBoen Fullstack\\TaniBoen-Backend\\TaniBoen\\TaniBoen.csproj": {}
+    "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\TaniBoen.csproj": {}
   },
   "projects": {
-    "D:\\BINUS\\Semester 4\\SE\\TaniBoen Fullstack\\TaniBoen-Backend\\TaniBoen\\TaniBoen.csproj": {
+    "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\TaniBoen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Fullstack\\TaniBoen-Backend\\TaniBoen\\TaniBoen.csproj",
+        "projectUniqueName": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\TaniBoen.csproj",
         "projectName": "TaniBoen",
-        "projectPath": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Fullstack\\TaniBoen-Backend\\TaniBoen\\TaniBoen.csproj",
-        "packagesPath": "C:\\Users\\Bryan\\.nuget\\packages\\",
-        "outputPath": "D:\\BINUS\\Semester 4\\SE\\TaniBoen Fullstack\\TaniBoen-Backend\\TaniBoen\\obj\\",
+        "projectPath": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\TaniBoen.csproj",
+        "packagesPath": "C:\\Users\\queen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\queen\\Desktop\\Binus\\Learning Management System\\Semester 4\\Software Engineering LEC\\TaniBoen-Backend\\TaniBoen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Bryan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\queen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://ecomindo.pkgs.visualstudio.com/Nexus/_packaging/Nexus.Base/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/itbinus/_packaging/Binus.WS.Pattern/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -34,6 +35,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -70,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -40,7 +40,7 @@ namespace TaniBoen.Controllers
 
             if (isCredentialsValid)
             {
-                return RedirectToAction("Home", "Index");
+                return RedirectToAction("Index", "Home");
             }
             else
             {

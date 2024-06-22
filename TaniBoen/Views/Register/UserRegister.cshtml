@@ -1,4 +1,5 @@
-﻿@model AddRegisterViewModel
+﻿@model TaniBoen.Models.AddRegisterViewModel
+
 @{
     Layout = null;
 }
@@ -57,12 +58,12 @@
                     Create Account
                 </div>
                 <table>
-                    <form action="Register" method="post" id="regis-form" autocomplete="off">
+                    <form action="UserRegister" method="post" id="form-regis" autocomplete="off">
                     <tr>
                         <td><label for="name">Name</label></td>
                         <td>
                             <div class="input-account" id="input-name">
-                                <input id="name-input" type="text" required placeholder="Input Your Name Here">
+                                <input id="name-input" type="text" placeholder="Input Your Name Here" asp-for="Name">
                             </div>
                         </td>
                     </tr>
@@ -70,7 +71,7 @@
                         <td><label for="phone-number">Phone Number</label></td>
                         <td>
                             <div class="input-account" id="input-phone-number">
-                                <input id="phone-number-input" type="text" required placeholder="0865 2234 7840">
+                                <input id="phone-input" type="text" placeholder="0865 2234 7840" asp-for="PhoneNumber">
                             </div>
                         </td>
                     </tr>
@@ -78,15 +79,15 @@
                         <td><label for="email">Email Address</label></td>
                         <td>
                             <div class="input-account" id="input-email">
-                                <input id="email-input" type="text" required placeholder="asd@asd.com">
+                                <input id="email-input" type="text" placeholder="Input Your Email" asp-for="Email">
                             </div>
                         </td>
                     </tr>
                     <tr>
                         <td><label for="password" id="input-password">Password</label></td>
                         <td>
-                            <div class="input-account">
-                                <input id="password-input" type="password" required placeholder="Input Your Password">
+                            <div class="input-account" id="input-pass">
+                                <input id="pass-input" type="password" placeholder="Input Your Password" asp-for="Password">
                             </div>
                         </td>
                     </tr>
@@ -94,7 +95,7 @@
                         <td><label for="confirm-password" id="input-confirm-password">Confirm Password</label></td>
                         <td>
                             <div class="input-account">
-                                <input id="confirm-input" type="password" required placeholder="Confirm Your Password">
+                                <input id="confirm-input" type="password" placeholder="Confirm Your Password">
                             </div>
                         </td>
                     </tr>
@@ -108,7 +109,8 @@
                         <td></td>
                         <td>
                             <div class="register">
-                                <a href="Taniboen_Login_Page.html">
+                                @* <a class="menu-link" asp-controller="Login" asp-action="UserLogin"> *@
+                                <a href="../Views/Login/UserLogin.cshtml">
                                     <input type="submit" value="Register">
                                 </a>
                             </div>
@@ -159,7 +161,8 @@
         </div>
     </div>
 
-    <script src="/js/Taniboen_Navbar.js"></script>
+    <script src="~/js/UserRegister.js"></script>
+    @* <script src="~/js/Taniboen_Navbar.js"></script> *@
 
 </body>
 </html>

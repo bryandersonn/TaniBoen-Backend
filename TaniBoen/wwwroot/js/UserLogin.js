@@ -1,17 +1,3 @@
-const hamburger = document.querySelector(".hamburger img");
-const navbarItems = document.querySelector(".space");
-const main = document.querySelector("main");
-const footer = document.querySelector("footer");
-const topshadow = document.querySelector(".top");
-
-hamburger.addEventListener('click', () => {
-    navbarItems.classList.toggle('active')
-    main.classList.toggle('active')
-    footer.classList.toggle('active')
-    topshadow.classList.toggle('active')
-
-})
-
 const formLogin = document.getElementById("form-login");
 const inputEmail = document.getElementById("input-email");
 const inputPass = document.getElementById("input-pass");

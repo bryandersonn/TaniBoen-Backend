@@ -134,12 +134,12 @@
 
                 <div class="product-confirmation">
                     <div class="cart">
-                        <a asp-controller="ShoppingCart" asp-action="ShoppingCart">
-                            <button>
+                        <form action="AddToCart" method="post" autocomplete="off">
+                            <button type="submit">
                                 <img src="/assets/shopping-cart-removebg-preview.png" alt="shopping-cart">
                                 Masukkan Keranjang
                             </button>
-                        </a>
+                        </form>
                     </div>
                     <div class="buy">
                         <a asp-controller="Payment" asp-action="Payment"><button>Beli Sekarang</button></a>

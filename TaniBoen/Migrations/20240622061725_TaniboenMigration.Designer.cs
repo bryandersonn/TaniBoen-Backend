@@ -12,7 +12,7 @@ using TaniBoen.Data;
 namespace TaniBoen.Migrations
 {
     [DbContext(typeof(TaniBoenData))]
-    [Migration("20240621180840_TaniboenMigration")]
+    [Migration("20240622061725_TaniboenMigration")]
     partial class TaniboenMigration
     {
         /// <inheritdoc />
@@ -24,25 +24,6 @@ namespace TaniBoen.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
-
-            modelBuilder.Entity("TaniBoen.Models.Domain.LoginData", b =>
-                {
-                    b.Property<Guid>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier");
-
-                    b.Property<string>("Email")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Password")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Login");
-                });
 
             modelBuilder.Entity("TaniBoen.Models.Domain.ProductData", b =>
                 {
@@ -92,8 +73,9 @@ namespace TaniBoen.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("PhoneNumber")
-                        .HasColumnType("int");
+                    b.Property<string>("PhoneNumber")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 

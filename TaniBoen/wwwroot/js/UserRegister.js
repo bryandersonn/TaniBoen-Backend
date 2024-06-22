@@ -1,30 +1,17 @@
-const hamburger = document.querySelector(".hamburger img");
-const navbarItems = document.querySelector(".space");
-const main = document.querySelector("main");
-const footer = document.querySelector("footer");
-const topshadow = document.querySelector(".top");
-
-
-hamburger.addEventListener('click', () => {
-    navbarItems.classList.toggle('active')
-    main.classList.toggle('active')
-    footer.classList.toggle('active')
-    topshadow.classList.toggle('active')
-})
-
-
 const formRegis = document.getElementById("form-regis");
-const inputEmail = document.getElementById("input-email");
-const inputPass = document.getElementById("input-pass");
-const inputName = document.getElementById("input-name");
-const inputConf = document.getElementById("input-confpass");
-const validateBox = document.getElementById("validate-box");
+const inputName = document.getElementById("name-input");
+const inputPhone = document.getElementById("phone-input");
+const inputEmail = document.getElementById("email-input");
+const inputPass = document.getElementById("pass-input");
+const inputConf = document.getElementById("confirm-input");
+const validateBox = document.getElementById("checkbox-input");
 
 formRegis.onsubmit = function (event) {
     event.preventDefault();
 
     const name = inputName.value;
     const email = inputEmail.value;
+    const phone = inputPhone.value;
 
     if (name.length === 0) // check name is not null
     {
@@ -119,8 +106,8 @@ formRegis.onsubmit = function (event) {
     }
     else
     {
+        formRegis.submit();
         alert("Register Success!");
-        document.getElementById("form-regis").submit();
     }
 
     

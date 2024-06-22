@@ -18,16 +18,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\queen\Desktop\Binus\Learning Management System\Semester 4\Software Engineering LEC\TaniBoen-Backend\TaniBoen
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/queen/Desktop/Binus/Learning Management System/Semester 4/Software Engineering LEC/TaniBoen-Backend/TaniBoen/Views/AboutUs/AboutWearHouse.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRVc1xBYm91dFdlYXJIb3VzZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/queen/Desktop/Binus/Learning Management System/Semester 4/Software Engineering LEC/TaniBoen-Backend/TaniBoen/Views/Categories/AddCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xBZGRDYXRlZ29yeS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/queen/Desktop/Binus/Learning Management System/Semester 4/Software Engineering LEC/TaniBoen-Backend/TaniBoen/Views/Categories/DeleteCategory.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGVDYXRlZ29yeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/queen/Desktop/Binus/Learning Management System/Semester 4/Software Engineering LEC/TaniBoen-Backend/TaniBoen/Views/Categories/EditCategory.cshtml]
@@ -42,8 +34,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhdFxDaGF0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/queen/Desktop/Binus/Learning Management System/Semester 4/Software Engineering LEC/TaniBoen-Backend/TaniBoen/Views/Dashboard/Dash.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXERhc2guY3NodG1s
+[C:/Users/queen/Desktop/Binus/Learning Management System/Semester 4/Software Engineering LEC/TaniBoen-Backend/TaniBoen/Views/DetailPayment/DetailPayment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWlsUGF5bWVudFxEZXRhaWxQYXltZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/queen/Desktop/Binus/Learning Management System/Semester 4/Software Engineering LEC/TaniBoen-Backend/TaniBoen/Views/HomeGuest/IndexGuest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZUd1ZXN0XEluZGV4R3Vlc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/queen/Desktop/Binus/Learning Management System/Semester 4/Software Engineering LEC/TaniBoen-Backend/TaniBoen/Views/Home/Index.cshtml]
@@ -105,7 +101,3 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/queen/Desktop/Binus/Learning Management System/Semester 4/Software Engineering LEC/TaniBoen-Backend/TaniBoen/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/queen/Desktop/Binus/Learning Management System/Semester 4/Software Engineering LEC/TaniBoen-Backend/TaniBoen/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-9vzu7cij0h

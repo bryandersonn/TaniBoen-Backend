@@ -1,4 +1,4 @@
-﻿@model LoginUserViewModel
+﻿@model TaniBoen.Models.LoginUserViewModel
 
 @{
     Layout = null;
@@ -51,26 +51,28 @@
         <section>
             <div class="form-box">
                 <div class="form-value">
-                    <form id="login-form" action="Login" method="post" autocomplete="off">
+                    <form id="form-login" action="UserLogin" method="post" autocomplete="off">
                         <div class="login-title">
                             <img src="/assets/logo taniboen remove bg2.png" alt="logo-taniboen">
                             <h2>Login</h2>
                         </div>
                         <div class="inputbox" id="email-input">
                             <ion-icon name="mail-outline"></ion-icon>
-                            <input type="text" required>
+                            <input type="text" required id="input-email" asp-for="Email">
                             <label for="email">Email</label>
                         </div>
                         <div class="inputbox" id="password-input">
                             <ion-icon name="lock-closed-outline"></ion-icon>
-                            <input type="password" required>
+                            <input type="password" required id="input-pass" asp-for="Password">
                             <label for="password">Password</label>
                         </div>
                         <div class="forget">
                             <label for="forget"><input type="checkbox">Remember Me </label>
                             <a href="#">Forget Password</a>
                         </div>
-                        <input type="submit" value="Login" id="login">
+                        <a href="../Views/Home/Index.cshtml">
+                            <input type="submit" value="Login" id="login">
+                        </a>
                         <div class="register">
                             <p>Don't have an account? <a asp-controller="Register" asp-action="UserRegister">Register</a></p>
                         </div>
@@ -121,7 +123,8 @@
 
     <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
-    <script src="/js/Taniboen_Navbar.js"></script>
+    <script src="~/js/UserLogin.js"></script>
+    <script src="~/js/Taniboen_Navbar.js"></script>
 
 
 </body>
